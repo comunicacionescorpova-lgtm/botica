@@ -3,49 +3,63 @@
         "CODIGO": "BM 0001",
         "MEDICAMENTO": "AC ALENDRONICO 70 MG",
         "PRESENTACIÓN": "ALDROX 70 MG x 10 COMPRIMIDOS",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
+        "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
+    },
+    {
+        "CODIGO": "BM 0002",
+        "MEDICAMENTO": "AC FOLICO/HIERRO",
+        "PRESENTACIÓN": "CHELTIN FC X 30",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0003",
         "MEDICAMENTO": "AC IBANDRONICO 150 MG",
         "PRESENTACIÓN": "IDENA 150 MG X 1 COMPrimido",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
+        "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
+    },
+    {
+        "CODIGO": "BM 0004",
+        "MEDICAMENTO": "AC IBANDRONICO/CALCIO",
+        "PRESENTACIÓN": "DARMAS CaD x 31",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0005",
         "MEDICAMENTO": "AC ACETILSALICILICO 100 MG",
         "PRESENTACIÓN": "AC ACETILSALICILICO 100 MG X 100",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0006",
         "MEDICAMENTO": "ACIDO URSODEOXICOLICO 250 MG",
         "PRESENTACIÓN": "ACIDO URSODEOXICOLICO 250 MG",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0007",
         "MEDICAMENTO": "ACEOCUMAROL 4 MG X 30",
         "PRESENTACIÓN": "ISQUELIUM 4 MG x 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0008",
         "MEDICAMENTO": "ACICLOVIR 400 MG x 32",
         "PRESENTACIÓN": "ACICLOVIR 400 MG X 32",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0009",
-        "MEDICAMENTO": "ACICLOVIRxxxx 5% CREMA",
+        "MEDICAMENTO": "ACICLOVIR 5% CREMA",
         "PRESENTACIÓN": "ACICLOVIR 5% CREMA",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
@@ -66,14 +80,14 @@
         "CODIGO": "BM 0012",
         "MEDICAMENTO": "ACIDO MEFENAMICO 500 MG",
         "PRESENTACIÓN": "ACIDO MEFENAMICO 500 MG X 10",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
         "CODIGO": "BM 0013",
         "MEDICAMENTO": "AC VALPROICO 200 MG x 30",
         "PRESENTACIÓN": "ACIDO VALPROICO 200 MG x 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
@@ -1095,7 +1109,7 @@
         "CODIGO": "BM 0159",
         "MEDICAMENTO": "ENSURE TARRO 850 G (alt2)",
         "PRESENTACIÓN": "ENSURE FRUTILLA 850 G",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
