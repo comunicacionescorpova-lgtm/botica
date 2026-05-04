@@ -3,7 +3,7 @@
         "CODIGO": "BM 0001",
         "MEDICAMENTO": "AC ALENDRONICO 70 MG",
         "PRESENTACIÓN": "ALDROX 70 MG x 10 COMPRIMIDOS",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
@@ -31,7 +31,7 @@
         "CODIGO": "BM 0005",
         "MEDICAMENTO": "AC ACETILSALICILICO 100 MG",
         "PRESENTACIÓN": "AC ACETILSALICILICO 100 MG X 100",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "01/05/2026"
     },
     {
