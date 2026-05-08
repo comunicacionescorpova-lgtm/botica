@@ -4,8 +4,17 @@ import json
 import requests
 import hashlib
 import re
-from datetime import datetime
+from datetime import datetime, date
 from dotenv import load_dotenv
+
+
+class SafeEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, (datetime, date, pd.Timestamp)):
+            return obj.strftime("%Y-%m-%d") if not hasattr(obj, 'hour') else obj.strftime("%Y-%m-%d %H:%M:%S")
+        if pd.isna(obj):
+            return None
+        return super().default(obj)
 
 load_dotenv()
 
@@ -159,7 +168,7 @@ def process_source(source, registry):
         output_path = os.path.join(target_dir, "data.json")
         data = df.to_dict(orient='records')
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
+            json.dump(data, f, ensure_ascii=False, indent=4, cls=SafeEncoder)
             
         registry[source_id] = {
             "name": source_name,
