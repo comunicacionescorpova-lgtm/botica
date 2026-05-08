@@ -2,7 +2,7 @@ name: Actualizar Datos de Botica
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Cada 30 minutos
+    - cron: '*/5 * * * *' # Cada 5 minutos
   workflow_dispatch: # Permite ejecución manual
 
 permissions:
