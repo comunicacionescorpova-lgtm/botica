@@ -1249,7 +1249,7 @@
         "CODIGO": "BM 0179",
         "MEDICAMENTO": "(FENTERMINA) C*",
         "PRESENTACIÓN": "FINAPET 37,5 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ÚLTIMA ACTUALIZACIÓN": "2026-05-05 00:00:00"
     },
     {
@@ -2656,7 +2656,7 @@
         "CODIGO": "BM 0380",
         "MEDICAMENTO": "(TRAZODONA) C*",
         "PRESENTACIÓN": "TRITTICO 100 MG X 20 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "2026-05-05 00:00:00"
     },
     {
@@ -2775,14 +2775,14 @@
         "CODIGO": "BM 0397",
         "MEDICAMENTO": "(VILDAGLIPTINA)",
         "PRESENTACIÓN": "VILDAGLIPTINA 50 MG x 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ÚLTIMA ACTUALIZACIÓN": "2026-05-05 00:00:00"
     },
     {
         "CODIGO": "BM 0398",
         "MEDICAMENTO": "(VITAMINA C)",
         "PRESENTACIÓN": "VITAMINA C 1000 MG X 20 EFERVESCENTE",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ÚLTIMA ACTUALIZACIÓN": "2026-05-05 00:00:00"
     },
     {
