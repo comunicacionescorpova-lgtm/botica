@@ -14,3 +14,4 @@
 | 2026-05-08 03:46:07 | Botica Municipal CMVA | Actualización de stock (406 registros) |
 | 2026-05-08 19:58:28 | Botica Municipal CMVA | Actualización de stock (406 registros) |
 | 2026-05-14 20:59:50 | Botica Municipal CMVA | Actualización de stock (406 registros) |
+| 2026-05-22 21:45:52 | Botica Municipal CMVA | Actualización de stock (406 registros) |
