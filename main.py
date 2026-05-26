@@ -127,11 +127,6 @@ def process_source(source, registry):
         content = response.content
         
         current_hash = get_file_hash(content)
-        last_hash = registry.get(source_id, {}).get("hash")
-        
-        if current_hash == last_hash:
-            print(f"⏩ Sin cambios para {source_name}.")
-            return False
 
         temp_file = f"temp_{source_id}.xlsx"
         with open(temp_file, 'wb') as f:
@@ -198,18 +193,13 @@ def main():
         return
 
     registry = load_registry()
-    changes_made = False
-    
+
     for source in sources:
         source = {k.lower(): v for k, v in source.items()}
-        if process_source(source, registry):
-            changes_made = True
-            
-    if changes_made:
-        save_registry(registry)
-        print("\n✨ Proceso finalizado con actualizaciones.")
-    else:
-        print("\n😴 Todo está al día.")
+        process_source(source, registry)
+
+    save_registry(registry)
+    print("\n✨ Proceso finalizado.")
 
 if __name__ == "__main__":
     main()
