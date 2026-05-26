@@ -158,26 +158,40 @@ def process_source(source, registry):
         if not col_codigo:
             print(f"❌ Error: No se pudo localizar la columna 'CODIGO' en las primeras 20 filas.")
             return False
-            
+
         df = df[df[col_codigo].notna()]
-        
+
         target_dir = os.path.join(OUTPUT_DIR, source_id)
         os.makedirs(target_dir, exist_ok=True)
-        
+
         output_path = os.path.join(target_dir, "data.json")
         data = df.to_dict(orient='records')
+        new_json = json.dumps(data, ensure_ascii=False, indent=4, cls=SafeEncoder)
+
+        # Comparar con el JSON actual para evitar commits innecesarios
+        existing_json = ""
+        if os.path.exists(output_path):
+            with open(output_path, 'r', encoding='utf-8') as f:
+                existing_json = f.read()
+
+        if new_json == existing_json:
+            print(f"⏩ Sin cambios en los datos para {source_name}.")
+            if os.path.exists(temp_file):
+                os.remove(temp_file)
+            return False
+
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4, cls=SafeEncoder)
-            
+            f.write(new_json)
+
         registry[source_id] = {
             "name": source_name,
             "hash": current_hash,
             "last_updated": datetime.now().isoformat()
         }
         update_changelog(source_name, f"Actualización de stock ({len(data)} registros)")
-        
+
         print(f"✅ ¡Actualizado! {output_path}")
-        
+
         if os.path.exists(temp_file):
             os.remove(temp_file)
         return True
@@ -193,13 +207,18 @@ def main():
         return
 
     registry = load_registry()
+    changes_made = False
 
     for source in sources:
         source = {k.lower(): v for k, v in source.items()}
-        process_source(source, registry)
+        if process_source(source, registry):
+            changes_made = True
 
-    save_registry(registry)
-    print("\n✨ Proceso finalizado.")
+    if changes_made:
+        save_registry(registry)
+        print("\n✨ Proceso finalizado con actualizaciones.")
+    else:
+        print("\n😴 Sin cambios en los datos.")
 
 if __name__ == "__main__":
     main()
