@@ -1,4 +1,5 @@
 import os
+import time
 import pandas as pd
 import json
 import requests
@@ -118,7 +119,10 @@ def process_source(source, registry):
     print(f"\n🔍 Procesando: {source_name}...")
     
     try:
-        response = requests.get(url)
+        # Parámetro anti-cache para forzar descarga fresca desde Google Drive / OneDrive
+        separator = "&" if "?" in url else "?"
+        fresh_url = f"{url}{separator}_t={int(time.time())}"
+        response = requests.get(fresh_url, headers={"Cache-Control": "no-cache"})
         response.raise_for_status()
         content = response.content
         
