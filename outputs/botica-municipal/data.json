@@ -10,14 +10,14 @@
         "CODIGO": "BM 0003",
         "MEDICAMENTO": "(AC. FOLICO)",
         "PRESENTACION": "FOLISANIN 1 MG x 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0002",
         "MEDICAMENTO": "(AC. FOLICO)",
         "PRESENTACION": "FOLISANIN 5 MG x 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
