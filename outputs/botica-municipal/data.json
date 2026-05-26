@@ -3,21 +3,21 @@
         "CODIGO": "BM 0001",
         "MEDICAMENTO": "(AC. ACETILSALICÍLICO)",
         "PRESENTACIÓN": "AC. ACETILSALICILICO 100 MG X 100 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "22/5/2026"
     },
     {
         "CODIGO": "BM 0003",
         "MEDICAMENTO": "(AC. FOLICO)",
         "PRESENTACIÓN": "FOLISANIN 1 MG x 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "22/5/2026"
     },
     {
         "CODIGO": "BM 0002",
         "MEDICAMENTO": "(AC. FOLICO)",
         "PRESENTACIÓN": "FOLISANIN 5 MG x 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ÚLTIMA ACTUALIZACIÓN": "22/5/2026"
     },
     {
