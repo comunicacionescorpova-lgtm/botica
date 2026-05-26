@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Botica Municipal — CMVA</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Metropolis:wght@300;400;500;600;700&display=swap');
+
+*{box-sizing:border-box;margin:0;padding:0}
+
+#cmva-botica{
+  font-family:'Metropolis',sans-serif;
+  max-width:100%;
+  padding:0;
+}
+
+/* ── Header ── */
+.bm-header{
+  background:#042C53;
+  border-radius:14px;
+  padding:0;
+  margin-bottom:20px;
+  overflow:hidden;
+  position:relative;
+}
+.bm-header::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  background:url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 40L40 0' stroke='rgba(55,138,221,0.07)' stroke-width='1'/%3E%3C/svg%3E") repeat;
+  pointer-events:none;
+}
+.bm-header-top{
+  padding:22px 24px 16px;
+  border-left:5px solid #378ADD;
+  position:relative;
+}
+.bm-eyebrow{
+  font-size:10px;font-weight:700;letter-spacing:0.16em;
+  color:#378ADD;text-transform:uppercase;margin-bottom:6px;
+}
+.bm-title{
+  font-size:22px;font-weight:700;color:#fff;
+  letter-spacing:-0.02em;line-height:1.1;margin-bottom:4px;
+}
+.bm-sub{font-size:12px;color:#B5D4F4;font-weight:400}
+.bm-deco{display:flex;height:4px}
+.bm-deco span{flex:1}
+
+/* ── Métricas ── */
+.bm-metrics{
+  display:grid;grid-template-columns:repeat(4,1fr);
+  border-top:1px solid rgba(181,212,244,0.15);
+}
+.bm-met{
+  padding:12px 18px;
+  border-right:1px solid rgba(181,212,244,0.15);
+}
+.bm-met:last-child{border-right:none}
+.bm-mn{font-size:20px;font-weight:700;line-height:1;margin-bottom:3px}
+.bm-ml{font-size:10px;font-weight:600;color:#B5D4F4;letter-spacing:0.06em;text-transform:uppercase}
+.bm-mn.g{color:#5DCAA5}.bm-mn.a{color:#FAC775}.bm-mn.r{color:#F09595}.bm-mn.w{color:#fff}
+
+/* ── Alertas ── */
+.bm-alerts{display:flex;flex-direction:column;gap:7px;margin-bottom:16px}
+.bm-alert{
+  display:flex;align-items:flex-start;gap:9px;
+  background:#EBF4FD;border-left:3px solid #378ADD;
+  padding:9px 13px;border-radius:0 7px 7px 0;
+}
+.bm-alert-i{
+  width:16px;height:16px;border-radius:50%;background:#378ADD;
+  color:#fff;font-size:10px;font-weight:700;
+  display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px;
+}
+.bm-alert-t{font-size:12.5px;color:#042C53;line-height:1.4}
+
+/* ── Buscador ── */
+.bm-search-section{margin-bottom:12px}
+.bm-search-label{
+  font-size:11px;font-weight:700;color:#185FA5;
+  letter-spacing:0.08em;text-transform:uppercase;margin-bottom:7px;
+}
+.bm-search-wrap{position:relative;margin-bottom:7px}
+.bm-sico{
+  position:absolute;left:13px;top:50%;transform:translateY(-50%);
+  width:18px;height:18px;opacity:0.4;pointer-events:none;
+}
+.bm-search{
+  width:100%;height:48px;
+  padding:0 14px 0 44px;
+  border:2px solid #B5D4F4;border-radius:10px;
+  font-family:'Metropolis',sans-serif;font-size:15px;font-weight:500;
+  color:#042C53;background:#fff;outline:none;
+  transition:border-color .18s,box-shadow .18s;
+}
+.bm-search:focus{border-color:#378ADD;box-shadow:0 0 0 3px rgba(55,138,221,0.12)}
+.bm-search::placeholder{color:#B5D4F4;font-weight:400}
+.bm-search-hint{font-size:11.5px;color:#185FA5;line-height:1.5}
+.bm-search-hint b{color:#042C53;font-weight:600}
+
+/* ── Filtros ── */
+.bm-filters{display:flex;gap:7px;margin-bottom:14px;flex-wrap:wrap}
+.bm-chip{
+  display:flex;align-items:center;gap:6px;
+  padding:7px 14px;border-radius:8px;
+  border:1px solid #B5D4F4;background:#fff;
+  font-family:'Metropolis',sans-serif;font-size:13px;font-weight:600;
+  color:#185FA5;cursor:pointer;transition:all .15s;user-select:none;
+}
+.bm-chip:hover{border-color:#378ADD;background:#EBF4FD}
+.bm-chip.on{background:#042C53;border-color:#042C53;color:#fff}
+.fd{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+
+/* ── Tabla ── */
+.bm-table-wrap{
+  border:1px solid #B5D4F4;border-radius:12px;overflow:hidden;
+}
+.bm-table-scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;table-layout:fixed;min-width:540px}
+thead tr{background:#042C53}
+th{
+  padding:11px 16px;text-align:left;
+  font-family:'Metropolis',sans-serif;font-size:10.5px;font-weight:700;
+  color:#B5D4F4;letter-spacing:0.1em;text-transform:uppercase;
+}
+th:nth-child(1){width:13%}th:nth-child(2){width:42%}
+th:nth-child(3){width:28%}th:nth-child(4){width:17%}
+tbody tr{border-bottom:0.5px solid #EBF4FD;transition:background .1s}
+tbody tr:last-child{border-bottom:none}
+tbody tr:hover{background:#EBF4FD}
+tbody tr.rd{opacity:0.45}
+td{
+  padding:12px 16px;
+  font-family:'Metropolis',sans-serif;font-size:13.5px;
+  color:#042C53;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+td:nth-child(1){font-weight:700;color:#185FA5;font-size:11.5px;letter-spacing:0.05em}
+td:nth-child(2){font-weight:500}
+td:nth-child(3){color:#185FA5;font-size:12.5px}
+td:nth-child(4){text-align:center}
+
+/* ── Footer tabla ── */
+.bm-footer{
+  display:flex;align-items:center;justify-content:space-between;
+  gap:10px;padding:10px 16px;
+  background:#EBF4FD;border-top:1px solid #B5D4F4;
+  flex-wrap:wrap;
+}
+.bm-footer-left{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.bm-per{display:flex;align-items:center;gap:7px}
+.bm-per label{font-size:11.5px;font-weight:600;color:#185FA5;white-space:nowrap}
+.bm-per-sel{
+  height:28px;padding:0 24px 0 9px;
+  border:1px solid #B5D4F4;border-radius:6px;
+  font-family:'Metropolis',sans-serif;font-size:12px;font-weight:700;
+  color:#042C53;background:#fff;outline:none;cursor:pointer;
+  appearance:none;-webkit-appearance:none;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23185FA5' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 7px center;
+}
+.bm-fnote{font-size:11.5px;color:#185FA5}
+.bm-fnote b{color:#042C53;font-weight:700}
+.bm-pager{display:flex;gap:4px;flex-shrink:0}
+.bm-pb{
+  height:28px;min-width:28px;padding:0 8px;
+  border:1px solid #B5D4F4;border-radius:5px;background:#fff;
+  font-family:'Metropolis',sans-serif;font-size:11.5px;font-weight:700;
+  color:#185FA5;cursor:pointer;transition:all .12s;
+}
+.bm-pb:hover:not(:disabled){background:#185FA5;color:#fff;border-color:#185FA5}
+.bm-pb.on{background:#042C53;color:#fff;border-color:#042C53}
+.bm-pb:disabled{opacity:0.3;cursor:default}
+
+/* ── Badges ── */
+.badge{
+  display:inline-flex;align-items:center;gap:5px;
+  padding:4px 10px;border-radius:6px;
+  font-family:'Metropolis',sans-serif;font-size:12px;font-weight:700;
+}
+.bs{background:#E6F4EE;color:#0F6E56}
+.bl{background:#FDECEA;color:#A32D2D}
+.bd{background:#F1F1F1;color:#5F5E5A}
+.dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.ds{background:#1A7F5A}
+.dl{background:#C0392B;animation:pr 1.4s ease-in-out infinite}
+.dd{background:#aaa}
+@keyframes pr{
+  0%,100%{box-shadow:0 0 0 0 rgba(192,57,43,.6)}
+  50%{box-shadow:0 0 0 5px rgba(192,57,43,0)}
+}
+
+/* ── Empty state ── */
+.bm-empty{padding:3rem;text-align:center}
+.bm-empty-icon{
+  width:44px;height:44px;border-radius:50%;background:#EBF4FD;
+  display:flex;align-items:center;justify-content:center;margin:0 auto 12px;
+}
+.bm-empty-title{font-size:15px;font-weight:700;color:#042C53;margin-bottom:5px}
+.bm-empty-sub{font-size:12.5px;color:#185FA5;line-height:1.5}
+
+/* ── Loading ── */
+.bm-loading{
+  padding:3rem;text-align:center;
+  font-size:13px;color:#185FA5;font-family:'Metropolis',sans-serif;
+}
+.bm-spinner{
+  width:32px;height:32px;border:3px solid #EBF4FD;
+  border-top-color:#378ADD;border-radius:50%;
+  animation:spin .8s linear infinite;margin:0 auto 12px;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── Highlight búsqueda ── */
+.hl{background:rgba(55,138,221,0.18);border-radius:2px;padding:0 1px}
+
+/* ── Última actualización ── */
+.bm-updated{
+  font-size:11px;color:rgba(181,212,244,0.6);
+  font-weight:400;margin-top:4px;
+}
+
+@media(max-width:600px){
+  .bm-metrics{grid-template-columns:repeat(2,1fr)}
+  .bm-mn{font-size:16px}
+  .bm-title{font-size:18px}
+  .bm-filters{gap:5px}
+  .bm-chip{font-size:12px;padding:5px 10px}
+}
+</style>
+</head>
+<body>
+
+<div id="cmva-botica">
+
+  <!-- Header -->
+  <div class="bm-header">
+    <div class="bm-header-top">
+      <div class="bm-eyebrow">Corporación Municipal de Villa Alemana</div>
+      <div class="bm-title">Botica Municipal</div>
+      <div class="bm-sub">Listado oficial de medicamentos · receta médica obligatoria</div>
+      <div class="bm-updated" id="bm-updated"></div>
+    </div>
+    <div class="bm-metrics">
+      <div class="bm-met"><div class="bm-mn g" id="cnt-s">—</div><div class="bm-ml">Con stock</div></div>
+      <div class="bm-met"><div class="bm-mn a" id="cnt-l">—</div><div class="bm-ml">Poco stock</div></div>
+      <div class="bm-met"><div class="bm-mn r" id="cnt-d">—</div><div class="bm-ml">Sin stock</div></div>
+      <div class="bm-met"><div class="bm-mn w" id="cnt-t">—</div><div class="bm-ml">Total</div></div>
+    </div>
+    <div class="bm-deco">
+      <span style="background:#042C53"></span>
+      <span style="background:#185FA5"></span>
+      <span style="background:#378ADD"></span>
+      <span style="background:#B5D4F4"></span>
+    </div>
+  </div>
+
+  <!-- Alertas -->
+  <div class="bm-alerts">
+    <div class="bm-alert">
+      <div class="bm-alert-i">i</div>
+      <div class="bm-alert-t">La marca de los laboratorios puede cambiar a lo largo del mes</div>
+    </div>
+    <div class="bm-alert">
+      <div class="bm-alert-i">i</div>
+      <div class="bm-alert-t">Todo medicamento se vende con receta médica</div>
+    </div>
+  </div>
+
+  <!-- Buscador -->
+  <div class="bm-search-section">
+    <div class="bm-search-label">Buscar medicamento</div>
+    <div class="bm-search-wrap">
+      <svg class="bm-sico" viewBox="0 0 24 24" fill="none" stroke="#042C53" stroke-width="2.5">
+        <circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/>
+      </svg>
+      <input class="bm-search" id="bm-search" type="text"
+        placeholder="Escriba el nombre o código del medicamento…"
+        autocomplete="off" oninput="bmBuscar(this.value)">
+    </div>
+    <div class="bm-search-hint">
+      Busque por <b>nombre</b> (ej: Enalapril) o <b>código</b> (ej: BM 0028) · Los resultados aparecen automáticamente
+    </div>
+  </div>
+
+  <!-- Filtros -->
+  <div class="bm-filters">
+    <div class="bm-chip on" onclick="bmFiltro('all',this)">
+      <span class="fd" style="background:#378ADD"></span>Todos los medicamentos
+    </div>
+    <div class="bm-chip" onclick="bmFiltro('stock',this)">
+      <span class="fd" style="background:#1A7F5A"></span>Con stock
+    </div>
+    <div class="bm-chip" onclick="bmFiltro('low',this)">
+      <span class="fd" style="background:#C0392B"></span>Poco stock
+    </div>
+    <div class="bm-chip" onclick="bmFiltro('disc',this)">
+      <span class="fd" style="background:#aaa"></span>Sin stock / descontinuado
+    </div>
+  </div>
+
+  <!-- Tabla -->
+  <div class="bm-table-wrap">
+    <div class="bm-table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Código</th>
+            <th>Medicamento</th>
+            <th>Presentación</th>
+            <th>Disponibilidad</th>
+          </tr>
+        </thead>
+        <tbody id="bm-tbody">
+          <tr>
+            <td colspan="4">
+              <div class="bm-loading">
+                <div class="bm-spinner"></div>
+                Cargando listado de medicamentos…
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="bm-footer">
+      <div class="bm-footer-left">
+        <div class="bm-per">
+          <label for="bm-pp">Mostrar</label>
+          <select class="bm-per-sel" id="bm-pp" onchange="bmSetPP(this.value)">
+            <option value="10" selected>10</option>
+            <option value="25">25</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="200">200</option>
+          </select>
+          <label for="bm-pp">por página</label>
+        </div>
+        <div class="bm-fnote" id="bm-note"></div>
+      </div>
+      <div class="bm-pager" id="bm-pager"></div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const BM_API = 'https://api.github.com/repos/comunicacionescorpova-lgtm/botica/contents/outputs/botica-municipal/data.json';
+const BM_REFRESH = 2 * 60 * 1000; // refresca datos cada 2 minutos
+
+let bmData = [], bmQ = '', bmFil = 'all', bmPg = 1, bmPP = 10;
+
+function bmEstadoKey(e) {
+  const m = { 'con stock':'stock', 'poco stock':'low', 'sin stock':'disc', 'stock':'stock', 'low':'low', 'disc':'disc' };
+  return m[(e||'').toLowerCase().trim()] || 'stock';
+}
+
+function bmBadge(s) {
+  if (s==='stock') return '<span class="badge bs"><span class="dot ds"></span>Con stock</span>';
+  if (s==='low')   return '<span class="badge bl"><span class="dot dl"></span>Poco stock</span>';
+  return '<span class="badge bd"><span class="dot dd"></span>Sin stock</span>';
+}
+
+function bmHL(t, q) {
+  if (!q) return t;
+  return String(t).replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),'<span class="hl">$1</span>');
+}
+
+function bmRows() {
+  return bmData.filter(r => {
+    if (bmFil !== 'all' && r._estado !== bmFil) return false;
+    if (!bmQ) return true;
+    const q = bmQ.toLowerCase();
+    return r._codigo.toLowerCase().includes(q) ||
+           r._med.toLowerCase().includes(q) ||
+           r._pres.toLowerCase().includes(q);
+  });
+}
+
+function bmBuscar(v) { bmQ = v.trim(); bmPg = 1; bmRender(); }
+function bmFiltro(f, el) {
+  bmFil = f;
+  document.querySelectorAll('.bm-chip').forEach(b => b.classList.remove('on'));
+  el.classList.add('on');
+  bmPg = 1; bmRender();
+}
+function bmSetPP(v) { bmPP = parseInt(v); bmPg = 1; bmRender(); }
+function bmGo(p) { bmPg = p; bmRender(); }
+
+function bmRender() {
+  document.getElementById('cnt-s').textContent = bmData.filter(r=>r._estado==='stock').length;
+  document.getElementById('cnt-l').textContent = bmData.filter(r=>r._estado==='low').length;
+  document.getElementById('cnt-d').textContent = bmData.filter(r=>r._estado==='disc').length;
+  document.getElementById('cnt-t').textContent = bmData.length;
+
+  const rows = bmRows(), total = rows.length;
+  const pages = Math.max(1, Math.ceil(total / bmPP));
+  if (bmPg > pages) bmPg = pages;
+  const st = (bmPg - 1) * bmPP;
+  const slice = rows.slice(st, st + bmPP);
+  const q = bmQ;
+
+  const tbody = document.getElementById('bm-tbody');
+  if (!slice.length) {
+    tbody.innerHTML = `<tr><td colspan="4">
+      <div class="bm-empty">
+        <div class="bm-empty-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#378ADD" stroke-width="2.5">
+            <circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/>
+          </svg>
+        </div>
+        <div class="bm-empty-title">No se encontraron medicamentos</div>
+        <div class="bm-empty-sub">Intente con otro nombre o código.<br>Ejemplo: <b>Enalapril</b> o <b>BM 0028</b></div>
+      </div>
+    </td></tr>`;
+  } else {
+    tbody.innerHTML = slice.map(r => `
+      <tr class="${r._estado==='disc'?'rd':''}">
+        <td>${bmHL(r._codigo, q)}</td>
+        <td>${bmHL(r._med, q)}</td>
+        <td>${bmHL(r._pres, q)}</td>
+        <td>${bmBadge(r._estado)}</td>
+      </tr>`
+    ).join('');
+  }
+
+  const note = document.getElementById('bm-note');
+  note.innerHTML = total
+    ? `Mostrando <b>${st+1}–${Math.min(st+bmPP,total)}</b> de <b>${total}</b>`
+    : '';
+
+  const pg = document.getElementById('bm-pager');
+  if (pages <= 1) { pg.innerHTML = ''; return; }
+  const maxB = 5;
+  let sp = Math.max(1, bmPg - Math.floor(maxB/2));
+  let ep = Math.min(pages, sp + maxB - 1);
+  if (ep - sp < maxB - 1) sp = Math.max(1, ep - maxB + 1);
+  let h = `<button class="bm-pb" onclick="bmGo(${bmPg-1})" ${bmPg===1?'disabled':''}>&#8592;</button>`;
+  if (sp > 1) h += `<button class="bm-pb" onclick="bmGo(1)">1</button>${sp>2?'<span style="font-size:11px;color:#185FA5;padding:0 2px">…</span>':''}`;
+  for (let i = sp; i <= ep; i++) h += `<button class="bm-pb ${i===bmPg?'on':''}" onclick="bmGo(${i})">${i}</button>`;
+  if (ep < pages) h += `${ep<pages-1?'<span style="font-size:11px;color:#185FA5;padding:0 2px">…</span>':''}<button class="bm-pb" onclick="bmGo(${pages})">${pages}</button>`;
+  h += `<button class="bm-pb" onclick="bmGo(${bmPg+1})" ${bmPg===pages?'disabled':''}>&#8594;</button>`;
+  pg.innerHTML = h;
+}
+
+function bmCargar() {
+  fetch(BM_API)
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(meta => JSON.parse(atob(meta.content.replace(/\n/g, ''))))
+    .then(data => {
+      bmData = data.map(r => ({
+        _codigo:  (r.CODIGO || '').trim(),
+        _med:     (r.MEDICAMENTO || '').trim(),
+        _pres:    (r.PRESENTACION || '').trim(),
+        _estado:  bmEstadoKey(r.ESTADO || ''),
+        _fecha:   r['ULTIMA ACTUALIZACION'] || '',
+      })).filter(r => r._codigo || r._med);
+
+      if (bmData.length && bmData[0]._fecha) {
+        document.getElementById('bm-updated').textContent =
+          'Actualizado: ' + bmData[0]._fecha;
+      }
+      bmRender();
+    })
+    .catch(err => {
+      if (!bmData.length) {
+        document.getElementById('bm-tbody').innerHTML = `
+          <tr><td colspan="4">
+            <div class="bm-empty">
+              <div class="bm-empty-title">Error al cargar el listado</div>
+              <div class="bm-empty-sub">No se pudo conectar con la fuente de datos.<br>Intente recargar la página.</div>
+            </div>
+          </td></tr>`;
+      }
+      console.error('CMVA Botica:', err);
+    });
+}
+
+// Carga inicial
+bmCargar();
+
+// Auto-refresh cada 2 minutos sin recargar la página
+setInterval(bmCargar, BM_REFRESH);
+</script>
+
+</body>
+</html>

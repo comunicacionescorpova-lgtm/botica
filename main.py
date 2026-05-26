@@ -1,5 +1,6 @@
 import os
 import time
+import unicodedata
 import pandas as pd
 import json
 import requests
@@ -134,7 +135,7 @@ def process_source(source, registry):
             
         # Intento inicial con skiprows
         df = pd.read_excel(temp_file, sheet_name=sheet, skiprows=skiprows)
-        df.columns = [str(c).strip().upper() for c in df.columns]
+        df.columns = [unicodedata.normalize('NFD', str(c).strip().upper()).encode('ascii', 'ignore').decode('ascii') for c in df.columns]
         
         # Función para buscar la columna de código
         def find_codigo_col(columns):
@@ -151,7 +152,7 @@ def process_source(source, registry):
                 if find_codigo_col(row_values):
                     print(f"✨ ¡Encontrado! La cabecera real está en la fila {i + 1}.")
                     df = pd.read_excel(temp_file, sheet_name=sheet, skiprows=i)
-                    df.columns = [str(c).strip().upper() for c in df.columns]
+                    df.columns = [unicodedata.normalize('NFD', str(c).strip().upper()).encode('ascii', 'ignore').decode('ascii') for c in df.columns]
                     col_codigo = find_codigo_col(df.columns)
                     break
         
