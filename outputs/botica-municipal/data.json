@@ -871,7 +871,7 @@
         "CODIGO": "BM 0125",
         "MEDICAMENTO": "(DALTEPARINA)",
         "PRESENTACION": "FRAGMIN 5.000 UI X 10",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1025,7 +1025,7 @@
         "CODIGO": "BM 0147",
         "MEDICAMENTO": "(DORZOLAMIDA) ",
         "PRESENTACION": "BIOMIRA 2% X 5 ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1039,7 +1039,7 @@
         "CODIGO": "BM 0149",
         "MEDICAMENTO": "(DOXICICLINA) ",
         "PRESENTACION": "DOXICICLINA 100 MG X 10",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1095,7 +1095,7 @@
         "CODIGO": "BM 0157",
         "MEDICAMENTO": "(EMPAGLIFOZINA  METFORMINA)",
         "PRESENTACION": "JARDIANCE DUO 12,5/1000 X 60",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1109,14 +1109,14 @@
         "CODIGO": "BM 0160",
         "MEDICAMENTO": "(ENALAPRIL)",
         "PRESENTACION": "ENALAPRIL 10 MG X 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0159",
         "MEDICAMENTO": "(ENALAPRIL)",
         "PRESENTACION": "ENALAPRIL 20 MG x 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1193,7 +1193,7 @@
         "CODIGO": "BM 0171",
         "MEDICAMENTO": "(EZETIMIBA) ",
         "PRESENTACION": "ZETIROL 10 MG X 28 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1508,7 +1508,7 @@
         "CODIGO": "BM 0216",
         "MEDICAMENTO": "(IBUPROFENO) C*",
         "PRESENTACION": "IBUPROFENO 200 MG/5ML 120 ML",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
