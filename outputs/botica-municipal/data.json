@@ -325,14 +325,14 @@
         "CODIGO": "BM 0047",
         "MEDICAMENTO": "(ATORVASTATINA)",
         "PRESENTACION": "ATORVASTATINA 40 MG X 60 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0048",
         "MEDICAMENTO": "(ATORVASTATINA) ",
         "PRESENTACION": "ATORVASTATINA 10 MG X 60 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
