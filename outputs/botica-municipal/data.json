@@ -164,7 +164,7 @@
         "CODIGO": "BM 0024",
         "MEDICAMENTO": "(AMBROXOL)",
         "PRESENTACION": "AMBROXOL 30 MG/5ML x 100 ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -283,7 +283,7 @@
         "CODIGO": "BM 0041",
         "MEDICAMENTO": "(APIXABAN) ",
         "PRESENTACION": "APIXABAN 5 MG X 100 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -366,7 +366,7 @@
     {
         "CODIGO": "BM 0053",
         "MEDICAMENTO": "(BETAHISTINA) ",
-        "PRESENTACION": "BETAHISTINA 16 MG X 28",
+        "PRESENTACION": "AARTSTINE 16 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
@@ -395,7 +395,7 @@
         "CODIGO": "BM 0057",
         "MEDICAMENTO": "(BETAMETASONA) ",
         "PRESENTACION": "CERVICORT 3 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
