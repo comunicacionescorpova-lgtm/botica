@@ -1620,7 +1620,7 @@
         "CODIGO": "BM 0232",
         "MEDICAMENTO": "(LATANOPROST  TIMOLOL) C*",
         "PRESENTACION": "LATANOPROST/TIMOLOL (Pharmatech) 2,5 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1830,14 +1830,14 @@
         "CODIGO": "BM 0262",
         "MEDICAMENTO": "(MEMANTINA) C*",
         "PRESENTACION": "MEMANVITAE 20 MG x 56 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0263",
         "MEDICAMENTO": "(MEMANTINA) C*",
         "PRESENTACION": "MEMIKARE 10 MG X 60",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2019,7 +2019,7 @@
         "CODIGO": "BM 0289",
         "MEDICAMENTO": "(NARATRIPTAN) C*",
         "PRESENTACION": "ULTRIPTAN 2,5 MG X 10",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2509,7 +2509,7 @@
         "CODIGO": "BM 0360",
         "MEDICAMENTO": "(TELMISARTAN) C*",
         "PRESENTACION": "TELMISARTAN 80 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2817,7 +2817,7 @@
         "CODIGO": "BM 0403",
         "MEDICAMENTO": "(VITAMINA E)",
         "PRESENTACION": "VITAMINA E 400 UI X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
