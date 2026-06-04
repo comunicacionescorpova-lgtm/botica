@@ -1249,7 +1249,7 @@
         "CODIGO": "BM 0179",
         "MEDICAMENTO": "(FENTERMINA) C*",
         "PRESENTACION": "FINAPET 37,5 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1837,7 +1837,7 @@
         "CODIGO": "BM 0263",
         "MEDICAMENTO": "(MEMANTINA) C*",
         "PRESENTACION": "MEMIKARE 10 MG X 60",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
