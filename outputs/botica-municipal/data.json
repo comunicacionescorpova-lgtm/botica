@@ -339,7 +339,7 @@
         "CODIGO": "BM 0049",
         "MEDICAMENTO": "(ATORVASTATINA) ",
         "PRESENTACION": "ATORVASTATINA 80 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -409,7 +409,7 @@
         "CODIGO": "BM 0059",
         "MEDICAMENTO": "(BILASTINA)",
         "PRESENTACION": "BILAKEM 20 MG X 30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -451,7 +451,7 @@
         "CODIGO": "BM 0065",
         "MEDICAMENTO": "(BRIMONIDINA  TIMOLOL)",
         "PRESENTACION": "MYMOF X 5ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
