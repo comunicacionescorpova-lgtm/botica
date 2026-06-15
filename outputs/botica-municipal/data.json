@@ -283,7 +283,7 @@
         "CODIGO": "BM 0041",
         "MEDICAMENTO": "(APIXABAN) ",
         "PRESENTACION": "APIXABAN 5 MG X 100 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -556,14 +556,14 @@
         "CODIGO": "BM 0080",
         "MEDICAMENTO": "(CARBAMAZEPINA) ",
         "PRESENTACION": "TEGRETAL CR 400 MG X 60",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0081",
         "MEDICAMENTO": "(CARBONATO DE LITIO) ",
         "PRESENTACION": "CARBORON 300 MGX 50 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
