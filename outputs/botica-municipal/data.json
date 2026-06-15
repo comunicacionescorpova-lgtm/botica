@@ -2285,7 +2285,7 @@
         "CODIGO": "BM 0327",
         "MEDICAMENTO": "(QUETIAPINA) ",
         "PRESENTACION": "QUETIAPINA 25 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2417,7 +2417,7 @@
     {
         "CODIGO": "BM 0346",
         "MEDICAMENTO": "(SITAGLIPTINA  METFORMINA)",
-        "PRESENTACION": "JANUMET 50/1000 X56 ",
+        "PRESENTACION": "SITAZIT-M 50/1000 X 56 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
