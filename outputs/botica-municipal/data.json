@@ -451,14 +451,14 @@
         "CODIGO": "BM 0065",
         "MEDICAMENTO": "(BRIMONIDINA  TIMOLOL)",
         "PRESENTACION": "MYMOF X 5ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0066",
         "MEDICAMENTO": "(BRIMONIDINA TARTRATO) ",
         "PRESENTACION": "PARAIOP 2% X 5ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -717,7 +717,7 @@
         "CODIGO": "BM 0103",
         "MEDICAMENTO": "(CLONAZEPAM)",
         "PRESENTACION": "CLONAZEPAM 2 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -731,7 +731,7 @@
         "CODIGO": "BM 0105",
         "MEDICAMENTO": "(CLONAZEPAM) ",
         "PRESENTACION": "VALPAX 2 MG X60 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1683,7 +1683,7 @@
         "CODIGO": "BM 0241",
         "MEDICAMENTO": "(LEVODROPROPIZINA) C*",
         "PRESENTACION": "TOSEDRIN JARABE 120 ML ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1907,7 +1907,7 @@
         "CODIGO": "BM 0273",
         "MEDICAMENTO": "(METILFENIDATO)",
         "PRESENTACION": "ARADIX RETARD 10 MG X30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2439,7 +2439,7 @@
         "CODIGO": "BM 0349",
         "MEDICAMENTO": "(SOMATROPINA) C*",
         "PRESENTACION": "OMNITROPE 10 MG/1,5 ML",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
