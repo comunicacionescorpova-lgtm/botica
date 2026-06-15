@@ -2656,7 +2656,7 @@
         "CODIGO": "BM 0380",
         "MEDICAMENTO": "(TRAZODONA) C*",
         "PRESENTACION": "TRITTICO 100 MG X 20 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2789,7 +2789,7 @@
         "CODIGO": "BM 0399",
         "MEDICAMENTO": "(VITAMINA C)",
         "PRESENTACION": "VITAMINA C 500 MG X 30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2810,7 +2810,7 @@
         "CODIGO": "BM 0402",
         "MEDICAMENTO": "(VITAMINA D3) ",
         "PRESENTACION": "VITDE 10 ML",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
