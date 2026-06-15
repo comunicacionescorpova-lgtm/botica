@@ -101,7 +101,7 @@
         "CODIGO": "BM 0013",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "VIVALITE UP VAINILLA 900 G",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -619,7 +619,7 @@
         "CODIGO": "BM 0089",
         "MEDICAMENTO": "(CELECOXIB)",
         "PRESENTACION": "CELECOXIB 200 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1102,7 +1102,7 @@
         "CODIGO": "BM 0158",
         "MEDICAMENTO": "(EMPAGLIFOZINA  METFORMINA)",
         "PRESENTACION": "JARDIANCE DUO 12,5/850 X 60 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2103,7 +2103,7 @@
         "CODIGO": "BM 0301",
         "MEDICAMENTO": "(OMEPRAZOL)",
         "PRESENTACION": "OMEPRAZOL 20 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2733,7 +2733,7 @@
         "CODIGO": "BM 0391",
         "MEDICAMENTO": "(VALSARTAN) C*",
         "PRESENTACION": "VALKEM 160 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
