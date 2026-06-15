@@ -213,7 +213,7 @@
         "CODIGO": "BM 0031",
         "MEDICAMENTO": "(AMLODIPINO/OLMESARTAN) ",
         "PRESENTACION": "AMLIPROS 5/40 X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1151,7 +1151,7 @@
         "CODIGO": "BM 0165",
         "MEDICAMENTO": "(ESPIRONOLACTONA)",
         "PRESENTACION": "ESPIRONOLACTONA 25 MG X 20 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1263,7 +1263,7 @@
         "CODIGO": "BM 0180",
         "MEDICAMENTO": "(FEXOFENADINA) ",
         "PRESENTACION": "ALFEXA 180 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1620,7 +1620,7 @@
         "CODIGO": "BM 0232",
         "MEDICAMENTO": "(LATANOPROST  TIMOLOL) C*",
         "PRESENTACION": "LATANOPROST/TIMOLOL (Pharmatech) 2,5 ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -2082,7 +2082,7 @@
         "CODIGO": "BM 0298",
         "MEDICAMENTO": "(OLMESARTAN)",
         "PRESENTACION": "OLMEPRESS 40 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
