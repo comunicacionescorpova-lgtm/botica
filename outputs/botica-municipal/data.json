@@ -633,7 +633,7 @@
         "CODIGO": "BM 0091",
         "MEDICAMENTO": "(CETIRIZINA) ",
         "PRESENTACION": "CETIRIZINA 5 MG/5 ML X60 ML",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -801,7 +801,7 @@
         "CODIGO": "BM 0115",
         "MEDICAMENTO": "(CODEINA  PSEUDOEFEDRINA  CLORFENAMINA)",
         "PRESENTACION": "NASOLVER 100 ML",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -815,7 +815,7 @@
         "CODIGO": "BM 0118",
         "MEDICAMENTO": "(COLÁGENO HIDROLIZADO)",
         "PRESENTACION": "ARTILANE-C X 30 SACHET ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -829,7 +829,7 @@
         "CODIGO": "BM 0119",
         "MEDICAMENTO": "(CÓLAGENO HIDROLIZADO)",
         "PRESENTACION": "KARTIGEL X 30 SACHET",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
@@ -1872,7 +1872,7 @@
         "CODIGO": "BM 0269",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "GLAUPAX 1000 MG XR X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
