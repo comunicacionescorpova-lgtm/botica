@@ -87,49 +87,49 @@
         "CODIGO": "BM 0018",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "ENSURE ADVANCE CHOCOLATE 850 G ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0019",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "ENSURE ADVANCE FRUTILLA 850 G",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0013",
         "MEDICAMENTO": "(ALIMENTO)",
-        "PRESENTACION": "ENSURE ADVANCE VAINILLA 850 G",
+        "PRESENTACION": "VIVALITE UP VAINILLA 900 G",
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0014",
         "MEDICAMENTO": "(ALIMENTO)",
-        "PRESENTACION": "ENSURE CHOCOLATE 850 G ",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "VIVALITE GOLD CHOCOLATE 900 G ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0015",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "ENSURE FRUTILLA 850 G",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0016",
         "MEDICAMENTO": "(ALIMENTO)",
-        "PRESENTACION": "ENSURE VAINILLA 850 G ",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "VIVALITE GOLD VAINILLA 900 G ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
         "CODIGO": "BM 0017",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "GLUCERNA VAINILLA 850 G ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/5/2026"
     },
     {
