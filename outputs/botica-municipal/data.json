@@ -212,8 +212,8 @@
     {
         "CODIGO": "BM 0031",
         "MEDICAMENTO": "(AMLODIPINO/OLMESARTAN) ",
-        "PRESENTACION": "AMLIPROS 5/40 X 30 ",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "OLTAN AMLO 40/5 X 30 ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -563,7 +563,7 @@
         "CODIGO": "BM 0081",
         "MEDICAMENTO": "(CARBONATO DE LITIO) ",
         "PRESENTACION": "CARBORON 300 MGX 50 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1025,7 +1025,7 @@
         "CODIGO": "BM 0147",
         "MEDICAMENTO": "(DORZOLAMIDA) ",
         "PRESENTACION": "BIOMIRA 2% X 5 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
