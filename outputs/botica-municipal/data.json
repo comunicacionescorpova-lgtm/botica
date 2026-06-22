@@ -395,7 +395,7 @@
         "CODIGO": "BM 0057",
         "MEDICAMENTO": "(BETAMETASONA) ",
         "PRESENTACION": "CERVICORT 3 ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1158,7 +1158,7 @@
         "CODIGO": "BM 0166",
         "MEDICAMENTO": "(ESTRADIOL) ",
         "PRESENTACION": "HORMOGEL 0,5 MG X 35 G",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1263,7 +1263,7 @@
         "CODIGO": "BM 0180",
         "MEDICAMENTO": "(FEXOFENADINA) ",
         "PRESENTACION": "ALFEXA 180 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1907,7 +1907,7 @@
         "CODIGO": "BM 0273",
         "MEDICAMENTO": "(METILFENIDATO)",
         "PRESENTACION": "ARADIX RETARD 10 MG X30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
