@@ -2082,7 +2082,7 @@
         "CODIGO": "BM 0298",
         "MEDICAMENTO": "(OLMESARTAN)",
         "PRESENTACION": "OLMEPRESS 40 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2110,14 +2110,14 @@
         "CODIGO": "BM 0302",
         "MEDICAMENTO": "(ONDANSETRON) C*",
         "PRESENTACION": "OTOC 4 MG X 8 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0303",
         "MEDICAMENTO": "(ONDANSETRON) C*",
         "PRESENTACION": "OTOC 8 MG X 10 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
