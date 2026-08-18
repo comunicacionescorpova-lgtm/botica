@@ -1095,7 +1095,7 @@
         "CODIGO": "BM 0157",
         "MEDICAMENTO": "(EMPAGLIFOZINA  METFORMINA)",
         "PRESENTACION": "JARDIANCE DUO 12,5/1000 X 60",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1228,7 +1228,7 @@
         "CODIGO": "BM 0176",
         "MEDICAMENTO": "(FENOFIBRATO)",
         "PRESENTACION": "FIBROLOW 200 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2243,7 +2243,7 @@
         "CODIGO": "BM 0321",
         "MEDICAMENTO": "(PREGABALINA) ",
         "PRESENTACION": "PREGABALINA 75 MG X 60 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
