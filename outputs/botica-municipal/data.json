@@ -150,7 +150,7 @@
         "CODIGO": "BM 0022",
         "MEDICAMENTO": "(ALPRAZOLAM)",
         "PRESENTACION": "ALPRAZOLAM 0,5 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -171,7 +171,7 @@
         "CODIGO": "BM 0025",
         "MEDICAMENTO": "(AMIODARONA)",
         "PRESENTACION": "AMIODARONA 200 MG x 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -248,7 +248,7 @@
         "CODIGO": "BM 0036",
         "MEDICAMENTO": "(AMOXICILINA/ AC. CLAVULANICO)",
         "PRESENTACION": "AMOXICILINA + AC. CLAVULANICO 875/125 MG X 14 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -283,7 +283,7 @@
         "CODIGO": "BM 0041",
         "MEDICAMENTO": "(APIXABAN) ",
         "PRESENTACION": "APIXABAN 5 MG X 100 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -311,7 +311,7 @@
         "CODIGO": "BM 0045",
         "MEDICAMENTO": "(ATENOLOL) ",
         "PRESENTACION": "ATENOLOL 50 MG X 20 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -325,14 +325,14 @@
         "CODIGO": "BM 0047",
         "MEDICAMENTO": "(ATORVASTATINA)",
         "PRESENTACION": "ATORVASTATINA 40 MG X 60 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0048",
         "MEDICAMENTO": "(ATORVASTATINA) ",
         "PRESENTACION": "ATORVASTATINA 10 MG X 60 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -353,7 +353,7 @@
         "CODIGO": "BM 0051",
         "MEDICAMENTO": "(AZITROMICINA)",
         "PRESENTACION": "AZITROMICINA 500 MG X 6 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -374,28 +374,28 @@
         "CODIGO": "BM 0054",
         "MEDICAMENTO": "(BETAHISTINA) ",
         "PRESENTACION": "BETAVITAE 24 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0055",
         "MEDICAMENTO": "(BETAMETASONA + DEXCLORFENAMINA)",
         "PRESENTACION": "CAM X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0056",
         "MEDICAMENTO": "(BETAMETASONA)",
         "PRESENTACION": "BETAVOL x 1 JERINGA ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0057",
         "MEDICAMENTO": "(BETAMETASONA) ",
         "PRESENTACION": "CERVICORT 3 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -1137,7 +1137,7 @@
         "CODIGO": "BM 0163",
         "MEDICAMENTO": "(ESOMEPRAZOL) ",
         "PRESENTACION": "ESOMEPRAZOL 20 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2103,7 +2103,7 @@
         "CODIGO": "BM 0301",
         "MEDICAMENTO": "(OMEPRAZOL)",
         "PRESENTACION": "OMEPRAZOL 20 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
