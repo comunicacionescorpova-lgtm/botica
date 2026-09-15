@@ -640,7 +640,7 @@
         "CODIGO": "BM 0092",
         "MEDICAMENTO": "(CICLOBENZAPRINA) C*",
         "PRESENTACION": "TENSODOX 10 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -675,7 +675,7 @@
         "CODIGO": "BM 0097",
         "MEDICAMENTO": "(CIPROFLOXACINO)",
         "PRESENTACION": "CIPROFLOXACINO 500 MG X 6 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -717,7 +717,7 @@
         "CODIGO": "BM 0103",
         "MEDICAMENTO": "(CLONAZEPAM)",
         "PRESENTACION": "CLONAZEPAM 2 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -752,14 +752,14 @@
         "CODIGO": "BM 0108",
         "MEDICAMENTO": "(CLORFENAMINA)",
         "PRESENTACION": "CLORFENAMINA 4 MG X 20",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0109",
         "MEDICAMENTO": "(CLOTIAZEPAM) ",
         "PRESENTACION": "BETIS 10 MG X 30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -794,21 +794,21 @@
         "CODIGO": "BM 0114",
         "MEDICAMENTO": "(CLOXACILINA)",
         "PRESENTACION": "CLOXACILINA 500 MG X 12 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0115",
         "MEDICAMENTO": "(CODEINA  PSEUDOEFEDRINA  CLORFENAMINA)",
         "PRESENTACION": "NASOLVER 100 ML",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0116",
         "MEDICAMENTO": "(COLÁGENO + CALCIO + VIT D3 500/800)",
         "PRESENTACION": "ELCALFLEX X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -829,7 +829,7 @@
         "CODIGO": "BM 0119",
         "MEDICAMENTO": "(CÓLAGENO HIDROLIZADO)",
         "PRESENTACION": "KARTIGEL X 30 SACHET",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -850,7 +850,7 @@
         "CODIGO": "BM 0122",
         "MEDICAMENTO": "(CRANBERRY)",
         "PRESENTACION": "CRANBERRY X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -878,14 +878,14 @@
         "CODIGO": "BM 0126",
         "MEDICAMENTO": "(DAPAGLIFOZINA  METFORMINA)",
         "PRESENTACION": "XIGDUO XR 5/1000 MG X 56 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0127",
         "MEDICAMENTO": "(DAPAGLIFOZINA  METFORMINA) ",
         "PRESENTACION": "XIGDUO XR 10/1000 MG X 28 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
