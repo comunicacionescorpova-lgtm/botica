@@ -2110,7 +2110,7 @@
         "CODIGO": "BM 0302",
         "MEDICAMENTO": "(ONDANSETRON) C*",
         "PRESENTACION": "OTOC 4 MG X 8 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2138,7 +2138,7 @@
         "CODIGO": "BM 0306",
         "MEDICAMENTO": "(PARACETAMOL  CLORZOXAZONA)",
         "PRESENTACION": "DESDOL X 20",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2194,7 +2194,7 @@
         "CODIGO": "BM 0314",
         "MEDICAMENTO": "(POLIMIXINA B  NEOMICINA  BETAMETASONA  LIDOCAINA)",
         "PRESENTACION": "OTICUM 5 ML",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2229,7 +2229,7 @@
         "CODIGO": "BM 0319",
         "MEDICAMENTO": "(PREDNISONA) ",
         "PRESENTACION": "PREDNISONA 5 MG x 20",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2242,8 +2242,8 @@
     {
         "CODIGO": "BM 0321",
         "MEDICAMENTO": "(PREGABALINA) ",
-        "PRESENTACION": "PREGABALINA 75 MG X 60 ",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "PREGABALINA 75 MG X 30 ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -2256,7 +2256,7 @@
     {
         "CODIGO": "BM 0323",
         "MEDICAMENTO": "(PROBIOTICOS)",
-        "PRESENTACION": "BIOGAIA X 30",
+        "PRESENTACION": "SOLBIOT X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
@@ -2285,21 +2285,21 @@
         "CODIGO": "BM 0327",
         "MEDICAMENTO": "(QUETIAPINA) ",
         "PRESENTACION": "QUETIAPINA 25 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0328",
         "MEDICAMENTO": "(QUETIAPINA) ",
         "PRESENTACION": "QURAX XR 150 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0329",
         "MEDICAMENTO": "(QUETIAPINA) C*",
         "PRESENTACION": "QUETIAPINA 100 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2327,7 +2327,7 @@
         "CODIGO": "BM 0332",
         "MEDICAMENTO": "(RISPERIDONA) C*",
         "PRESENTACION": "RISMIA 1 MG X 30 COMP ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2439,7 +2439,7 @@
         "CODIGO": "BM 0349",
         "MEDICAMENTO": "(SOMATROPINA) C*",
         "PRESENTACION": "OMNITROPE 10 MG/1,5 ML",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2460,14 +2460,14 @@
         "CODIGO": "BM 0352",
         "MEDICAMENTO": "(SULFATO FERROSO)",
         "PRESENTACION": "SULFATO FERROSO 200 MG X 20 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0354",
         "MEDICAMENTO": "(TADALAFILO)",
         "PRESENTACION": "DISAC 20 MG X 4",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2488,7 +2488,7 @@
         "CODIGO": "BM 0356",
         "MEDICAMENTO": "(TAMSULOSINA) C*",
         "PRESENTACION": "SULIX 0,4 MG x 60",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2509,7 +2509,7 @@
         "CODIGO": "BM 0360",
         "MEDICAMENTO": "(TELMISARTAN) C*",
         "PRESENTACION": "TELMISARTAN 80 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2544,7 +2544,7 @@
         "CODIGO": "BM 0364",
         "MEDICAMENTO": "(TIBOLONA) C*",
         "PRESENTACION": "LIVIAL 2,5 MG X 28 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2621,7 +2621,7 @@
         "CODIGO": "BM 0376",
         "MEDICAMENTO": "(TRAMADOL) C*",
         "PRESENTACION": "TRAMADOL 100 MG/ML X 20 ML ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
