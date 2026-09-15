@@ -465,7 +465,7 @@
         "CODIGO": "BM 0067",
         "MEDICAMENTO": "(BROMHEXINA)",
         "PRESENTACION": "BROPAVOL 8MG/5ML X 100 ML",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -535,7 +535,7 @@
         "CODIGO": "BM 0077",
         "MEDICAMENTO": "(CANDESARTAN  HIDROCLOROTIAZIDA)",
         "PRESENTACION": "BILATEN D 16/12,5 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -619,7 +619,7 @@
         "CODIGO": "BM 0089",
         "MEDICAMENTO": "(CELECOXIB)",
         "PRESENTACION": "CELECOXIB 200 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
