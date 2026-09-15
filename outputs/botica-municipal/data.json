@@ -1004,7 +1004,7 @@
         "CODIGO": "BM 0144",
         "MEDICAMENTO": "(DONEPEZILO) ",
         "PRESENTACION": "DONEPEZILO 10 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1039,14 +1039,14 @@
         "CODIGO": "BM 0149",
         "MEDICAMENTO": "(DOXICICLINA) ",
         "PRESENTACION": "DOXICICLINA 100 MG X 10",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0150",
         "MEDICAMENTO": "(DROSPIRENONA  ETINILESTRADIOL) ",
         "PRESENTACION": "FEMIPLUS CD 3/0,03 MG X28",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1109,21 +1109,21 @@
         "CODIGO": "BM 0160",
         "MEDICAMENTO": "(ENALAPRIL)",
         "PRESENTACION": "ENALAPRIL 10 MG X 20",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0159",
         "MEDICAMENTO": "(ENALAPRIL)",
         "PRESENTACION": "ENALAPRIL 20 MG x 20",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0161",
         "MEDICAMENTO": "(ESCITALOPRAM) ",
         "PRESENTACION": "ESCITALOPRAM 10 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1151,14 +1151,14 @@
         "CODIGO": "BM 0165",
         "MEDICAMENTO": "(ESPIRONOLACTONA)",
         "PRESENTACION": "ESPIRONOLACTONA 25 MG X 20 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0166",
         "MEDICAMENTO": "(ESTRADIOL) ",
         "PRESENTACION": "HORMOGEL 0,5 MG X 35 G",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1193,7 +1193,7 @@
         "CODIGO": "BM 0171",
         "MEDICAMENTO": "(EZETIMIBA) ",
         "PRESENTACION": "ZETIROL 10 MG X 28 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1214,7 +1214,7 @@
         "CODIGO": "BM 0174",
         "MEDICAMENTO": "(FAMOTIDINA)",
         "PRESENTACION": "FAMOTIDINA 40 MG x 10 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1228,7 +1228,7 @@
         "CODIGO": "BM 0176",
         "MEDICAMENTO": "(FENOFIBRATO)",
         "PRESENTACION": "FIBROLOW 200 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1249,14 +1249,14 @@
         "CODIGO": "BM 0179",
         "MEDICAMENTO": "(FENTERMINA) C*",
         "PRESENTACION": "FINAPET 37,5 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0181",
         "MEDICAMENTO": "(FEXOFENADINA) ",
         "PRESENTACION": "ALFEXA 120 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1277,7 +1277,7 @@
         "CODIGO": "BM 0183",
         "MEDICAMENTO": "(FLECAINIDA) ",
         "PRESENTACION": "CADENCE 100 MG X 50",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1333,14 +1333,14 @@
         "CODIGO": "BM 0191",
         "MEDICAMENTO": "(FLUTICASONA  VILANTEROL) C*",
         "PRESENTACION": "RELVAR ELLIPTA 184/22 MCG X 30 DOSIS ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0192",
         "MEDICAMENTO": "(FLUTICASONA  VILANTEROL) C*",
         "PRESENTACION": "RELVAR ELLIPTA 92/22 MCG X 30 DOSIS",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
