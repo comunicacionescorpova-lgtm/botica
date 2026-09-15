@@ -927,7 +927,7 @@
         "CODIGO": "BM 0133",
         "MEDICAMENTO": "(DIAZEPAM)",
         "PRESENTACION": "DIAZEPAM 10 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -983,21 +983,21 @@
         "CODIGO": "BM 0141",
         "MEDICAMENTO": "(DIOSMINA + HESPERIDINA) ",
         "PRESENTACION": "VESNIDAN X 60 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0143",
         "MEDICAMENTO": "(DOMPERIDONA)",
         "PRESENTACION": "DOMPERIDONA 10 MG 20  ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0142",
         "MEDICAMENTO": "(DOMPERIDONA)",
         "PRESENTACION": "RESTOL 10MG/ML X 20 ML",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
