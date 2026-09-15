@@ -2656,7 +2656,7 @@
         "CODIGO": "BM 0380",
         "MEDICAMENTO": "(TRAZODONA) C*",
         "PRESENTACION": "TRITTICO 100 MG X 20 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2677,7 +2677,7 @@
         "CODIGO": "BM 0383",
         "MEDICAMENTO": "(TRIPTORELINA) ",
         "PRESENTACION": "DIPHERELINE SUSP INYEC 11.25 MG ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2719,7 +2719,7 @@
         "CODIGO": "BM 0389",
         "MEDICAMENTO": "(VALSARTAN) ",
         "PRESENTACION": "VALSARTAN 80 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2740,7 +2740,7 @@
         "CODIGO": "BM 0392",
         "MEDICAMENTO": "(VENLAFAXINA)",
         "PRESENTACION": "VENLAVITAE 75 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2782,14 +2782,14 @@
         "CODIGO": "BM 0398",
         "MEDICAMENTO": "(VITAMINA C)",
         "PRESENTACION": "VITAMINA C 1000 MG X 20 EFERVESCENTE",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0399",
         "MEDICAMENTO": "(VITAMINA C)",
         "PRESENTACION": "VITAMINA C 500 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2803,7 +2803,7 @@
         "CODIGO": "BM 0401",
         "MEDICAMENTO": "(VITAMINA D3)",
         "PRESENTACION": "VITAMINA D 800 UI X 60",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2817,7 +2817,7 @@
         "CODIGO": "BM 0403",
         "MEDICAMENTO": "(VITAMINA E)",
         "PRESENTACION": "VITAMINA E 400 UI X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
@@ -2831,14 +2831,14 @@
         "CODIGO": "BM 0405",
         "MEDICAMENTO": "(ZOLPIDEM) C*",
         "PRESENTACION": "SOMNIL 10 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     },
     {
         "CODIGO": "BM 0406",
         "MEDICAMENTO": "(ZOPICLONA) ",
         "PRESENTACION": "ZOPICLONA 7,5 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "22/6/2026"
     }
 ]
