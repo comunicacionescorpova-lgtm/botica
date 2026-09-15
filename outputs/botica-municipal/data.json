@@ -1487,7 +1487,7 @@
         "CODIGO": "BM 0214",
         "MEDICAMENTO": "(IBUPROFENO)",
         "PRESENTACION": "IBUPROFENO 400 MG X 20",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1564,7 +1564,7 @@
         "CODIGO": "BM 0224",
         "MEDICAMENTO": "(KETOROLACO)",
         "PRESENTACION": "SYNDOL SL X 4 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1599,7 +1599,7 @@
         "CODIGO": "BM 0228",
         "MEDICAMENTO": "(LAMOTRIGINA) C*",
         "PRESENTACION": "MEGANOX 25 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1620,7 +1620,7 @@
         "CODIGO": "BM 0232",
         "MEDICAMENTO": "(LATANOPROST  TIMOLOL) C*",
         "PRESENTACION": "LATANOPROST/TIMOLOL (Pharmatech) 2,5 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1683,7 +1683,7 @@
         "CODIGO": "BM 0241",
         "MEDICAMENTO": "(LEVODROPROPIZINA) C*",
         "PRESENTACION": "TOSEDRIN JARABE 120 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1760,7 +1760,7 @@
         "CODIGO": "BM 0252",
         "MEDICAMENTO": "(LORAZEPAM) C*",
         "PRESENTACION": "LORAZEPAM 2 MG x 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1774,7 +1774,7 @@
         "CODIGO": "BM 0254",
         "MEDICAMENTO": "(LOSARTAN)",
         "PRESENTACION": "LOSARTAN 50 MG x 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1795,7 +1795,7 @@
         "CODIGO": "BM 0257",
         "MEDICAMENTO": "(MAGNESIO)",
         "PRESENTACION": "MAGNESIO 400 MG x 60 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1809,7 +1809,7 @@
         "CODIGO": "BM 0259",
         "MEDICAMENTO": "(MEDROXIPROGESTERONA  ESTRADIOL)",
         "PRESENTACION": "NOVAFEM 1 JERINGA ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1830,14 +1830,14 @@
         "CODIGO": "BM 0262",
         "MEDICAMENTO": "(MEMANTINA) C*",
         "PRESENTACION": "MEMANVITAE 20 MG x 56 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
         "CODIGO": "BM 0263",
         "MEDICAMENTO": "(MEMANTINA) C*",
         "PRESENTACION": "MEMIKARE 10 MG X 60",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1871,8 +1871,8 @@
     {
         "CODIGO": "BM 0269",
         "MEDICAMENTO": "(METFORMINA)",
-        "PRESENTACION": "GLAUPAX 1000 MG XR X 30",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "METFORMINA 1000 MG LP X 30",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1886,7 +1886,7 @@
         "CODIGO": "BM 0271",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "METFORMINA 500 MG LP X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
@@ -1900,7 +1900,7 @@
         "CODIGO": "BM 0272",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "METFORMINA 850 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/6/2026"
     },
     {
