@@ -318,7 +318,7 @@
         "CODIGO": "BM 0046",
         "MEDICAMENTO": "(ATORVASTATINA)",
         "PRESENTACION": "ATORVASTATINA 20 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -892,7 +892,7 @@
         "CODIGO": "BM 0128",
         "MEDICAMENTO": "(DAPAGLIFOZINA) ",
         "PRESENTACION": "FORXIGA 10 MG X 28 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2817,7 +2817,7 @@
         "CODIGO": "BM 0403",
         "MEDICAMENTO": "(VITAMINA E)",
         "PRESENTACION": "VITAMINA E 400 UI X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
