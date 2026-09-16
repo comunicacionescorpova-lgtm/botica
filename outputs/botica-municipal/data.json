@@ -506,7 +506,7 @@
     {
         "CODIGO": "BM 0075",
         "MEDICAMENTO": "(CALCIO  VIT D3 500/400)",
-        "PRESENTACION": "ELCAL-D PLUS X 60",
+        "PRESENTACION": "CALCIO 500 MG + VIT D 400 UI X 60",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -793,7 +793,7 @@
     {
         "CODIGO": "BM 0115",
         "MEDICAMENTO": "(CODEINA  PSEUDOEFEDRINA  CLORFENAMINA)",
-        "PRESENTACION": "NASOLVER 100 ML",
+        "PRESENTACION": "CODETOL ADULTO 100 ML",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
