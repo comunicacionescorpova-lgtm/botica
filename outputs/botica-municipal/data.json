@@ -983,14 +983,14 @@
         "CODIGO": "BM 0143",
         "MEDICAMENTO": "(DOMPERIDONA)",
         "PRESENTACION": "DOMPERIDONA 10 MG 20  ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
         "CODIGO": "BM 0142",
         "MEDICAMENTO": "(DOMPERIDONA)",
         "PRESENTACION": "RESTOL 10MG/ML X 20 ML",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1025,7 +1025,7 @@
         "CODIGO": "BM 0148",
         "MEDICAMENTO": "(DOXAZOSINA) ",
         "PRESENTACION": "ALFADOXIN 4 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
