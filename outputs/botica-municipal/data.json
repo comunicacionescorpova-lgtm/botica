@@ -779,7 +779,7 @@
     {
         "CODIGO": "BM 0112",
         "MEDICAMENTO": "(CLOTRIMAZOL) ",
-        "PRESENTACION": "CLOTRIMAZOL 100 MG X 6 OVULOS VAGINALES",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -800,7 +800,7 @@
     {
         "CODIGO": "BM 0116",
         "MEDICAMENTO": "(COLÁGENO + CALCIO + VIT D3 500/800)",
-        "PRESENTACION": "ELCALFLEX X 30",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -863,7 +863,7 @@
     {
         "CODIGO": "BM 0125",
         "MEDICAMENTO": "(DALTEPARINA)",
-        "PRESENTACION": "FRAGMIN 5.000 UI X 10",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -989,7 +989,7 @@
     {
         "CODIGO": "BM 0142",
         "MEDICAMENTO": "(DOMPERIDONA)",
-        "PRESENTACION": "RESTOL 10MG/ML X 20 ML",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
