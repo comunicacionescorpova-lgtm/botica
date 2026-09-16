@@ -2137,7 +2137,7 @@
     {
         "CODIGO": "BM 0307",
         "MEDICAMENTO": "(PARACETAMOL)",
-        "PRESENTACION": "DROPOL 1G X 20 ",
+        "PRESENTACION": "ALIVIDOL 1G X 20 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2243,7 +2243,7 @@
         "CODIGO": "BM 0322",
         "MEDICAMENTO": "(PRIMIDONA)",
         "PRESENTACION": "PRIMIDONA 250 MG x 50",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2264,7 +2264,7 @@
         "CODIGO": "BM 0325",
         "MEDICAMENTO": "(PROPRANOLOL)",
         "PRESENTACION": "PROPRANOLOL 10 MG X 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
