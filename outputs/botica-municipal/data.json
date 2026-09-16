@@ -1367,7 +1367,7 @@
     {
         "CODIGO": "BM 0197",
         "MEDICAMENTO": "(GABAPENTINA) ",
-        "PRESENTACION": "GABAPENTINA 300 MG X 30",
+        "PRESENTACION": "GABAPENTINA 300 MG X 60",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1382,7 +1382,7 @@
         "CODIGO": "BM 0199",
         "MEDICAMENTO": "(GENTAMICINA) ",
         "PRESENTACION": "GENTAMICINA 0.3% OFT 5 ML",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1417,13 +1417,13 @@
         "CODIGO": "BM 0204",
         "MEDICAMENTO": "(HALOPERIDOL)",
         "PRESENTACION": "HALOPERIDOL 5 MG ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
         "CODIGO": "BM 0205",
         "MEDICAMENTO": "(HEDERA HELIX)",
-        "PRESENTACION": "HIEDRIX 35 MG/ 5 ML X 100 ML ",
+        "PRESENTACION": "PECTOX  35 MG/ 5 ML X 100 ML ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1564,7 +1564,7 @@
         "CODIGO": "BM 0225",
         "MEDICAMENTO": "(LACTULOSA) C*",
         "PRESENTACION": "LACTULOSA 65% SOL. 200 ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
