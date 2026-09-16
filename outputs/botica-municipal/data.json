@@ -1533,13 +1533,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0220",
-        "MEDICAMENTO": "(KETOPROFENO)",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0223",
         "MEDICAMENTO": "(KETOROLACO)",
         "PRESENTACION": "KETOROLACO 10 MG X 10",
@@ -1620,6 +1613,13 @@
         "CODIGO": "BM 0234",
         "MEDICAMENTO": "(LEFLUNOMIDA) C*",
         "PRESENTACION": "SOLIVO 20 MG X 60",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0220",
+        "MEDICAMENTO": "(LETROZOL) ",
+        "PRESENTACION": "LETROZOL 2,5 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
