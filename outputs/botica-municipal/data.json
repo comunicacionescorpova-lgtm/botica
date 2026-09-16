@@ -2249,7 +2249,7 @@
     {
         "CODIGO": "BM 0324",
         "MEDICAMENTO": "(PROGESTERONA) ",
-        "PRESENTACION": "GESTEL 200 MG X 30 ",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2277,7 +2277,7 @@
     {
         "CODIGO": "BM 0328",
         "MEDICAMENTO": "(QUETIAPINA) ",
-        "PRESENTACION": "QURAX XR 150 MG X 30 ",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2298,7 +2298,7 @@
     {
         "CODIGO": "BM 0331",
         "MEDICAMENTO": "(RISPERIDONA)",
-        "PRESENTACION": "RISMIA 3 MG X 30",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
