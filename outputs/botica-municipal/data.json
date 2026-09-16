@@ -252,13 +252,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0037",
-        "MEDICAMENTO": "(AMOXICILINA/AC. CLAVULÁNICO)",
-        "PRESENTACION": "AMOXIC./AC. CLAVULANICO 875/125 x 20",
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0038",
         "MEDICAMENTO": "(AMOXICILINA/AC. CLAVULÁNICO) ",
         "PRESENTACION": "AMOXICILINA / AC. CLAVULANICO 500/125 MG X 20 ",
@@ -373,8 +366,8 @@
     {
         "CODIGO": "BM 0054",
         "MEDICAMENTO": "(BETAHISTINA) ",
-        "PRESENTACION": "BETAVITAE 24 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "BETASERC 24 MG X 30 ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2789,6 +2782,13 @@
         "CODIGO": "BM 0399",
         "MEDICAMENTO": "(VITAMINA C)",
         "PRESENTACION": "VITAMINA C 500 MG X 30",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0037",
+        "MEDICAMENTO": "(VITAMINA D3)",
+        "PRESENTACION": "BONAVID GOTAS FRASCO 2 ML",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
