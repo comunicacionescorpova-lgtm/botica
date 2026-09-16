@@ -616,13 +616,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0091",
-        "MEDICAMENTO": "(CETIRIZINA) ",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0092",
         "MEDICAMENTO": "(CICLOBENZAPRINA) C*",
         "PRESENTACION": "TENSODOX 10 MG X 30 ",
@@ -770,13 +763,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0112",
-        "MEDICAMENTO": "(CLOTRIMAZOL) ",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0114",
         "MEDICAMENTO": "(CLOXACILINA)",
         "PRESENTACION": "CLOXACILINA 500 MG X 12 ",
@@ -788,13 +774,6 @@
         "MEDICAMENTO": "(CODEINA  PSEUDOEFEDRINA  CLORFENAMINA)",
         "PRESENTACION": "CODETOL ADULTO 100 ML",
         "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0116",
-        "MEDICAMENTO": "(COLÁGENO + CALCIO + VIT D3 500/800)",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -851,13 +830,6 @@
         "MEDICAMENTO": "(DABIGATRAN) ",
         "PRESENTACION": "PRADAXA 110 MG X 60 ",
         "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0125",
-        "MEDICAMENTO": "(DALTEPARINA)",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -977,13 +949,6 @@
         "MEDICAMENTO": "(DOMPERIDONA)",
         "PRESENTACION": "DOMPERIDONA 10 MG 20  ",
         "ESTADO": "Poco stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0142",
-        "MEDICAMENTO": "(DOMPERIDONA)",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1372,13 +1337,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0199",
-        "MEDICAMENTO": "(GENTAMICINA) ",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0201",
         "MEDICAMENTO": "(GLUCOSAMINA  CONDROITINA) ",
         "PRESENTACION": "FINARTRIT 1500/1200 MG X 30  SOBRES",
@@ -1471,7 +1429,7 @@
     },
     {
         "CODIGO": "BM 0086",
-        "MEDICAMENTO": "(HIERRO COMO BIS-GLICINATO QUELATO 30 MG / ACIDO FOLICO 600 MCG)",
+        "MEDICAMENTO": "(HIERRO COMO BIS-GLICINATO QUELATO 30 MG  ACIDO FOLICO 600 MCG)",
         "PRESENTACION": "CHELTIN FC X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
@@ -2254,13 +2212,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0324",
-        "MEDICAMENTO": "(PROGESTERONA) ",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0325",
         "MEDICAMENTO": "(PROPRANOLOL)",
         "PRESENTACION": "PROPRANOLOL 10 MG X 20",
@@ -2282,13 +2233,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0328",
-        "MEDICAMENTO": "(QUETIAPINA) ",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0329",
         "MEDICAMENTO": "(QUETIAPINA) C*",
         "PRESENTACION": "QUETIAPINA 100 MG X 30 ",
@@ -2300,13 +2244,6 @@
         "MEDICAMENTO": "(RASAGILINA) C*",
         "PRESENTACION": "RANGAR 1 MG X 30 (RASAGILINA) C*",
         "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0331",
-        "MEDICAMENTO": "(RISPERIDONA)",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
