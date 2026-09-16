@@ -597,7 +597,7 @@
     {
         "CODIGO": "BM 0086",
         "MEDICAMENTO": "(CEFADROXILO)",
-        "PRESENTACION": "CEFADROXILO 250MG/5 ML X 60 ML",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -625,7 +625,7 @@
     {
         "CODIGO": "BM 0091",
         "MEDICAMENTO": "(CETIRIZINA) ",
-        "PRESENTACION": "CETIRIZINA 5 MG/5 ML X60 ML",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
