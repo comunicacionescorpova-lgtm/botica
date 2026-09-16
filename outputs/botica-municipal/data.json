@@ -191,7 +191,7 @@
     {
         "CODIGO": "BM 0027",
         "MEDICAMENTO": "(AMLODIPINO  VALSARTAN) C*",
-        "PRESENTACION": "VALAXAM 160/10 MG X 30",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -276,6 +276,13 @@
         "CODIGO": "BM 0040",
         "MEDICAMENTO": "(ANFEBUTAMONA)",
         "PRESENTACION": "ANFEBUTAMONA CLORHIDRATO 300 MG LP X 30",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0072",
+        "MEDICAMENTO": "(ANFEBUTAMONA)",
+        "PRESENTACION": "BUPROPION CLORHIDRATO 150 mg x 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -486,13 +493,6 @@
         "CODIGO": "BM 0071",
         "MEDICAMENTO": "(BUDESONIDA; FORMOTEROL)",
         "PRESENTACION": "VANNAIR 80/4,5 MG X 120 DOSIS",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0072",
-        "MEDICAMENTO": "(BUPROPION)",
-        "PRESENTACION": "BUPROPION CLORHIDRATO 150 mg x 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
