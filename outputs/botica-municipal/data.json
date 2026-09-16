@@ -189,13 +189,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0027",
-        "MEDICAMENTO": "(BETAMETASONA + CLORFENAMINA MALEATO ) ",
-        "PRESENTACION": "PRODEL-B FRA 120 ML",
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0028",
         "MEDICAMENTO": "(AMLODIPINO  VALSARTAN) C*",
         "PRESENTACION": "VALMIRA 5/160 MG X 28",
@@ -385,17 +378,17 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0027",
+        "MEDICAMENTO": "(BETAMETASONA + CLORFENAMINA MALEATO ) ",
+        "PRESENTACION": "PRODEL-B FRA 120 ML",
+        "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0055",
         "MEDICAMENTO": "(BETAMETASONA + DEXCLORFENAMINA)",
         "PRESENTACION": "CAM X 30 ",
         "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0056",
-        "MEDICAMENTO": "(BETAMETASONA) COMO DIPROPIONATO + FOSFATO DISODICO",
-        "PRESENTACION": "BETAVOL x 1 JERINGA ",
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -410,6 +403,13 @@
         "MEDICAMENTO": "(BETAMETASONA) ",
         "PRESENTACION": "ZEROLERG 0,05% X 15 G",
         "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0056",
+        "MEDICAMENTO": "(BETAMETASONA) COMO DIPROPIONATO + FOSFATO DISODICO",
+        "PRESENTACION": "BETAVOL x 1 JERINGA ",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -592,13 +592,6 @@
         "MEDICAMENTO": "(CARVEDILOL) ",
         "PRESENTACION": "CARVEDILOL 6,25 MG X 30",
         "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0086",
-        "MEDICAMENTO": "(CEFADROXILO)",
-        "PRESENTACION": NaN,
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1381,7 +1374,7 @@
     {
         "CODIGO": "BM 0199",
         "MEDICAMENTO": "(GENTAMICINA) ",
-        "PRESENTACION": "GENTAMICINA 0.3% OFT 5 ML",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1542,7 +1535,7 @@
     {
         "CODIGO": "BM 0220",
         "MEDICAMENTO": "(KETOPROFENO)",
-        "PRESENTACION": "RELATENE 100 MG X 10",
+        "PRESENTACION": NaN,
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2838,6 +2831,13 @@
         "CODIGO": "BM 0406",
         "MEDICAMENTO": "(ZOPICLONA) ",
         "PRESENTACION": "ZOPICLONA 7,5 MG X 30",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0086",
+        "MEDICAMENTO": "HIERRO (COMO BIS-GLICINATO QUELATO) 30 MG / ACIDO FOLICO 600 MCG ",
+        "PRESENTACION": "CHELTIN FC X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     }
