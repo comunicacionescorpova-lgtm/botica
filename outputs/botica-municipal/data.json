@@ -401,7 +401,7 @@
     {
         "CODIGO": "BM 0057",
         "MEDICAMENTO": "(BETAMETASONA) ",
-        "PRESENTACION": "CERVICORT 3 ML ",
+        "PRESENTACION": "CERVICORT RAPILENTO 3 ML ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -477,7 +477,7 @@
     },
     {
         "CODIGO": "BM 0069",
-        "MEDICAMENTO": "(BUDESONIDA  FORMOTEROL) ",
+        "MEDICAMENTO": "(BUDESONIDA ; FORMOTEROL) ",
         "PRESENTACION": "NEUMOCORT PLUS 160/4,5 X 150 DOSIS",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
