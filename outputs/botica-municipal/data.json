@@ -70,6 +70,13 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0088",
+        "MEDICAMENTO": "(ACIDO VALPROICO)",
+        "PRESENTACION": "CUROCEF 500 MG X 14",
+        "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0011",
         "MEDICAMENTO": "(ACIDO VALPROICO) ",
         "PRESENTACION": "CONVULEX 500 MG x 30 ",
@@ -598,13 +605,6 @@
         "CODIGO": "BM 0087",
         "MEDICAMENTO": "(CEFADROXILO)",
         "PRESENTACION": "CEFADROXILO 500 MG x 8",
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0088",
-        "MEDICAMENTO": "(CEFUROXIMA)",
-        "PRESENTACION": "CUROCEF 500 MG X 14",
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
