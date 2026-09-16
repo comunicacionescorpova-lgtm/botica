@@ -185,7 +185,7 @@
         "CODIGO": "BM 0027",
         "MEDICAMENTO": "(AMLODIPINO  VALSARTAN) C*",
         "PRESENTACION": "VALAXAM 160/10 MG X 30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -420,13 +420,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0062",
-        "MEDICAMENTO": "(BISOPROLOL) ",
-        "PRESENTACION": "BISOPROLOL 2,5 MG X 30",
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0063",
         "MEDICAMENTO": "(BISOPROLOL) ",
         "PRESENTACION": "BISOPROLOL 2,5 MG X 56",
@@ -515,6 +508,13 @@
         "MEDICAMENTO": "(CALCIO  VIT D3 500/400)",
         "PRESENTACION": "ELCAL-D PLUS X 60",
         "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0062",
+        "MEDICAMENTO": "(CALCIO  VIT D3 500/800)",
+        "PRESENTACION": "CALCIO 500 + VITAMINA D3 800 UI X 60",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
