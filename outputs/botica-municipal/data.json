@@ -1675,7 +1675,7 @@
     {
         "CODIGO": "BM 0241",
         "MEDICAMENTO": "(LEVODROPROPIZINA) C*",
-        "PRESENTACION": "TOSEDRIN JARABE 120 ML ",
+        "PRESENTACION": "TOCEX JARABE 120 ML ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1760,7 +1760,7 @@
         "CODIGO": "BM 0253",
         "MEDICAMENTO": "(LOSARTAN  HIDROCLOROTIAZIDA)",
         "PRESENTACION": "LOSARTAN HIDROCLOROTIAZIDA 50/12.5 X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1935,7 +1935,7 @@
         "CODIGO": "BM 0278",
         "MEDICAMENTO": "(METOCLOPRAMIDA) C*",
         "PRESENTACION": "METOCLOPRAMIDA 10 MG X 24",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2005,7 +2005,7 @@
         "CODIGO": "BM 0288",
         "MEDICAMENTO": "(NAPROXENO)",
         "PRESENTACION": "NAPROXENO 550 MG X 10 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2025,8 +2025,8 @@
     {
         "CODIGO": "BM 0291",
         "MEDICAMENTO": "(NITROFURANTOINA)",
-        "PRESENTACION": "NITROFURANTOINA MACROCR. x 10",
-        "ESTADO": "Con stock",
+        "PRESENTACION": "NITROFURANTOINA MACROCR. 100 MG x 10",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2124,7 +2124,7 @@
         "CODIGO": "BM 0305",
         "MEDICAMENTO": "(OXOLAMINA)",
         "PRESENTACION": "OXOLAMINA AD.JBE 100ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
