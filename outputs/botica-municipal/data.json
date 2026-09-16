@@ -190,8 +190,8 @@
     },
     {
         "CODIGO": "BM 0027",
-        "MEDICAMENTO": "(AMLODIPINO  VALSARTAN) C*",
-        "PRESENTACION": NaN,
+        "MEDICAMENTO": "(BETAMETASONA + CLORFENAMINA MALEATO ) ",
+        "PRESENTACION": "PRODEL-B FRA 120 ML",
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -393,7 +393,7 @@
     },
     {
         "CODIGO": "BM 0056",
-        "MEDICAMENTO": "(BETAMETASONA)",
+        "MEDICAMENTO": "(BETAMETASONA) COMO DIPROPIONATO + FOSFATO DISODICO",
         "PRESENTACION": "BETAVOL x 1 JERINGA ",
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
