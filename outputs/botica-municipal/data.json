@@ -1,33 +1,5 @@
 [
     {
-        "CODIGO": "BM 0004",
-        "MEDICAMENTO": "(ACIDO IBANDRONICO) ",
-        "PRESENTACION": "IDENA 150 MG X 1  ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0005",
-        "MEDICAMENTO": "(ACIDO MEFENAMICO)",
-        "PRESENTACION": "ACIDO MEFENAMICO 500 mg X 10",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0006",
-        "MEDICAMENTO": "(ACIDO TRANEXAMICO) ",
-        "PRESENTACION": "ACIDO TRANEXAMICO 500 MG X 20",
-        "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0007",
-        "MEDICAMENTO": "(ACIDO URSODEOXICOLICO)",
-        "PRESENTACION": "AC. URSODEOXICOLICO 250 MG X 60 ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0009",
         "MEDICAMENTO": "(ACENOCUMAROL) ",
         "PRESENTACION": "ACEBRON 4 MG X 20",
@@ -58,7 +30,35 @@
     {
         "CODIGO": "BM 0002",
         "MEDICAMENTO": "(ACIDO FOLICO)",
-        "PRESENTACION": "FOLISANIN 5 MG x 30 ",
+        "PRESENTACION": "ACIDO FOLICO 5 MG x 30 ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0004",
+        "MEDICAMENTO": "(ACIDO IBANDRONICO) ",
+        "PRESENTACION": "IBAMES 150 MG X 1  ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0005",
+        "MEDICAMENTO": "(ACIDO MEFENAMICO)",
+        "PRESENTACION": "ACIDO MEFENAMICO 500 mg X 10",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0006",
+        "MEDICAMENTO": "(ACIDO TRANEXAMICO) ",
+        "PRESENTACION": "ACIDO TRANEXAMICO 500 MG X 100",
+        "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0007",
+        "MEDICAMENTO": "(ACIDO URSODEOXICOLICO)",
+        "PRESENTACION": "AC. URSODEOXICOLICO 250 MG X 60 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
