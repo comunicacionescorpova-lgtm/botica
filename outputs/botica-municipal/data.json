@@ -94,7 +94,7 @@
         "CODIGO": "BM 0019",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "ENSURE ADVANCE FRUTILLA 850 G",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1851,7 +1851,7 @@
         "CODIGO": "BM 0266",
         "MEDICAMENTO": "(METAMIZOL)",
         "PRESENTACION": "METAMIZOL SODICO 300 MG X 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
