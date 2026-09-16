@@ -72,8 +72,8 @@
     {
         "CODIGO": "BM 0088",
         "MEDICAMENTO": "(ACIDO VALPROICO)",
-        "PRESENTACION": "CUROCEF 500 MG X 14",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "ATEMPERATOR MG X 20",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -226,7 +226,7 @@
     {
         "CODIGO": "BM 0032",
         "MEDICAMENTO": "(AMLODIPINO/OLMESARTAN) ",
-        "PRESENTACION": "CARIDPRES 40/10 MG X 30",
+        "PRESENTACION": "OLTAN AMLO 40/10 MG X 30",
         "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
