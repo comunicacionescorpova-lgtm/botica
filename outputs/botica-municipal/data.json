@@ -366,7 +366,7 @@
     {
         "CODIGO": "BM 0053",
         "MEDICAMENTO": "(BETAHISTINA) ",
-        "PRESENTACION": "AARTSTINE 16 MG X 30",
+        "PRESENTACION": "BETAHISTINA 16 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2145,7 +2145,7 @@
         "CODIGO": "BM 0314",
         "MEDICAMENTO": "(POLIMIXINA B  NEOMICINA  BETAMETASONA  LIDOCAINA)",
         "PRESENTACION": "OTICUM 5 ML",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
