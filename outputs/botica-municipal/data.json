@@ -801,7 +801,7 @@
         "CODIGO": "BM 0120",
         "MEDICAMENTO": "(COMPLEJO B)",
         "PRESENTACION": "B-COMPLEX X 90",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -815,7 +815,7 @@
         "CODIGO": "BM 0122",
         "MEDICAMENTO": "(CRANBERRY)",
         "PRESENTACION": "CRANBERRY X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1746,7 +1746,7 @@
         "CODIGO": "BM 0257",
         "MEDICAMENTO": "(MAGNESIO)",
         "PRESENTACION": "MAGNESIO 400 MG x 60 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2047,7 +2047,7 @@
         "CODIGO": "BM 0300",
         "MEDICAMENTO": "(OMEGA 3)",
         "PRESENTACION": "OMEGA 3 X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2754,7 +2754,7 @@
         "CODIGO": "BM 0403",
         "MEDICAMENTO": "(VITAMINA E)",
         "PRESENTACION": "VITAMINA E 400 UI X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
