@@ -227,7 +227,7 @@
         "CODIGO": "BM 0034",
         "MEDICAMENTO": "(AMOXICILINA)",
         "PRESENTACION": "AMOBIOTIC 1G X 20",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1284,7 +1284,7 @@
         "CODIGO": "BM 0191",
         "MEDICAMENTO": "(FLUTICASONA  VILANTEROL) C*",
         "PRESENTACION": "RELVAR ELLIPTA 184/22 MCG X 30 DOSIS ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
