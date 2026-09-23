@@ -521,7 +521,7 @@
         "CODIGO": "BM 0062",
         "MEDICAMENTO": "(CALCIO  VIT D3 500/800)",
         "PRESENTACION": "CALCIO 500 + VITAMINA D3 800 UI X 60",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -724,7 +724,7 @@
         "CODIGO": "BM 0107",
         "MEDICAMENTO": "(CLOPIDOGREL)",
         "PRESENTACION": "CLOPIDOGREL 75 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -850,7 +850,7 @@
         "CODIGO": "BM 0128",
         "MEDICAMENTO": "(DAPAGLIFOZINA) ",
         "PRESENTACION": "FORXIGA 10 MG X 28 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -983,14 +983,14 @@
         "CODIGO": "BM 0148",
         "MEDICAMENTO": "(DOXAZOSINA) ",
         "PRESENTACION": "ALFADOXIN 4 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
         "CODIGO": "BM 0149",
         "MEDICAMENTO": "(DOXICICLINA) ",
         "PRESENTACION": "DOXICICLINA 100 MG X 10",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1088,7 +1088,7 @@
         "CODIGO": "BM 0163",
         "MEDICAMENTO": "(ESOMEPRAZOL) ",
         "PRESENTACION": "ESOMEPRAZOL 20 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2649,7 +2649,7 @@
         "CODIGO": "BM 0389",
         "MEDICAMENTO": "(VALSARTAN) ",
         "PRESENTACION": "VALSARTAN 80 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2663,7 +2663,7 @@
         "CODIGO": "BM 0391",
         "MEDICAMENTO": "(VALSARTAN) C*",
         "PRESENTACION": "VALKEM 160 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
