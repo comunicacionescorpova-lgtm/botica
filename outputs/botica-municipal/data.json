@@ -416,7 +416,7 @@
         "CODIGO": "BM 0059",
         "MEDICAMENTO": "(BILASTINA)",
         "PRESENTACION": "BILAKEM 20 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1830,7 +1830,7 @@
         "CODIGO": "BM 0268",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "GLUCOPHAGE 500 MG X 30",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1844,7 +1844,7 @@
         "CODIGO": "BM 0270",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "METFORMINA 750 MG LP X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
