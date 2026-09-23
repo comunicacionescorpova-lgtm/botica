@@ -1515,7 +1515,7 @@
         "CODIGO": "BM 0225",
         "MEDICAMENTO": "(LACTULOSA) C*",
         "PRESENTACION": "LACTULOSA 65% SOL. 200 ML ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1963,7 +1963,7 @@
         "CODIGO": "BM 0288",
         "MEDICAMENTO": "(NAPROXENO)",
         "PRESENTACION": "NAPROXENO 550 MG X 10 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
