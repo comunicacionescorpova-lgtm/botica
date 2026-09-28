@@ -381,7 +381,7 @@
         "CODIGO": "BM 0027",
         "MEDICAMENTO": "(BETAMETASONA  CLORFENAMINA MALEATO ) ",
         "PRESENTACION": "PRODEL-B FRA 120 ML",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -808,7 +808,7 @@
         "CODIGO": "BM 0121",
         "MEDICAMENTO": "(COMPLEJO B)",
         "PRESENTACION": "VIT. B1 B6 B12 x 3 INYECTABLE",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1809,7 +1809,7 @@
         "CODIGO": "BM 0266",
         "MEDICAMENTO": "(METAMIZOL)",
         "PRESENTACION": "METAMIZOL SODICO 300 MG X 20",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1984,7 +1984,7 @@
         "CODIGO": "BM 0291",
         "MEDICAMENTO": "(NITROFURANTOINA)",
         "PRESENTACION": "NITROFURANTOINA MACROCR. 100 MG x 10",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
