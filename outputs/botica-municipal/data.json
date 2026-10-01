@@ -535,7 +535,7 @@
         "CODIGO": "BM 0077",
         "MEDICAMENTO": "(CANDESARTAN  HIDROCLOROTIAZIDA)",
         "PRESENTACION": "BILATEN D 16/12,5 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1998,7 +1998,7 @@
         "CODIGO": "BM 0293",
         "MEDICAMENTO": "(OLANZAPINA)",
         "PRESENTACION": "ANZAP 5 MG x 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
