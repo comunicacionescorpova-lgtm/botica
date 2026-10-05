@@ -94,7 +94,7 @@
         "CODIGO": "BM 0018",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "ENSURE ADVANCE CHOCOLATE 850 G ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -136,7 +136,7 @@
         "CODIGO": "BM 0017",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "GLUCERNA VAINILLA 850 G ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -283,7 +283,7 @@
         "CODIGO": "BM 0041",
         "MEDICAMENTO": "(APIXABAN) ",
         "PRESENTACION": "APIXABAN 5 MG X 100 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -304,7 +304,7 @@
         "CODIGO": "BM 0043",
         "MEDICAMENTO": "(ARIPIPRAZOL) ",
         "PRESENTACION": "ARIVITAE 5 MG X 28 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -437,7 +437,7 @@
         "CODIGO": "BM 0063",
         "MEDICAMENTO": "(BISOPROLOL) ",
         "PRESENTACION": "BISOPROLOL 2,5 MG X 56",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -521,7 +521,7 @@
         "CODIGO": "BM 0062",
         "MEDICAMENTO": "(CALCIO  VIT D3 500/800)",
         "PRESENTACION": "CALCIO 500 + VITAMINA D3 800 UI X 60",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
