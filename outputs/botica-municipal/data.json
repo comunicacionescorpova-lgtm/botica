@@ -1214,7 +1214,7 @@
         "CODIGO": "BM 0180",
         "MEDICAMENTO": "(FEXOFENADINA) ",
         "PRESENTACION": "ALFEXA 180 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2663,7 +2663,7 @@
         "CODIGO": "BM 0391",
         "MEDICAMENTO": "(VALSARTAN) C*",
         "PRESENTACION": "VALKEM 160 MG X 30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
