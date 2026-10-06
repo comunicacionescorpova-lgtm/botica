@@ -1046,7 +1046,7 @@
         "CODIGO": "BM 0157",
         "MEDICAMENTO": "(EMPAGLIFOZINA  METFORMINA)",
         "PRESENTACION": "JARDIANCE DUO 12,5/1000 X 60",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2649,7 +2649,7 @@
         "CODIGO": "BM 0389",
         "MEDICAMENTO": "(VALSARTAN) ",
         "PRESENTACION": "VALSARTAN 80 MG X 30 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
