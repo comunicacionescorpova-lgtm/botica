@@ -472,7 +472,7 @@
         "CODIGO": "BM 0068",
         "MEDICAMENTO": "(BROMURO DE IPRATROPIO) ",
         "PRESENTACION": "BROMURO DE IPRATROPIO 20 MCG/DOSIS ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -850,7 +850,7 @@
         "CODIGO": "BM 0128",
         "MEDICAMENTO": "(DAPAGLIFOZINA) ",
         "PRESENTACION": "FORXIGA 10 MG X 28 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1634,7 +1634,7 @@
         "CODIGO": "BM 0241",
         "MEDICAMENTO": "(LEVODROPROPIZINA) C*",
         "PRESENTACION": "TOCEX JARABE 120 ML ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2292,7 +2292,7 @@
         "CODIGO": "BM 0338",
         "MEDICAMENTO": "(RUPATADINA) C*",
         "PRESENTACION": "REAX 10 MG X 30 COMPRIMIDOS",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2313,7 +2313,7 @@
         "CODIGO": "BM 0341",
         "MEDICAMENTO": "(SALBUTAMOL) C*",
         "PRESENTACION": "SALBUTAMOL 100 MCG/ DOSIS ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2558,7 +2558,7 @@
         "CODIGO": "BM 0375",
         "MEDICAMENTO": "(TRAMADOL) C*",
         "PRESENTACION": "TRAMADOL 50 MG X 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
