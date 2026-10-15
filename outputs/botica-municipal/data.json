@@ -990,7 +990,7 @@
         "CODIGO": "BM 0149",
         "MEDICAMENTO": "(DOXICICLINA) ",
         "PRESENTACION": "DOXICICLINA 100 MG X 10",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1088,7 +1088,7 @@
         "CODIGO": "BM 0163",
         "MEDICAMENTO": "(ESOMEPRAZOL) ",
         "PRESENTACION": "ESOMEPRAZOL 20 MG X 30 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1144,7 +1144,7 @@
         "CODIGO": "BM 0171",
         "MEDICAMENTO": "(EZETIMIBA) ",
         "PRESENTACION": "ZETIROL 10 MG X 28 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1501,7 +1501,7 @@
         "CODIGO": "BM 0223",
         "MEDICAMENTO": "(KETOROLACO)",
         "PRESENTACION": "KETOROLACO 10 MG X 10",
-        "ESTADO": "Con stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2474,7 +2474,7 @@
         "CODIGO": "BM 0364",
         "MEDICAMENTO": "(TIBOLONA) C*",
         "PRESENTACION": "LIVIAL 2,5 MG X 28 ",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
