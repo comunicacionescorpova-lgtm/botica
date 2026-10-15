@@ -779,8 +779,8 @@
     {
         "CODIGO": "BM 0118",
         "MEDICAMENTO": "(COLÁGENO HIDROLIZADO)",
-        "PRESENTACION": "ARTILANE-C X 30 SACHET ",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "REGENNERA FLEX C + D X 30 SACHET ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1046,7 +1046,7 @@
         "CODIGO": "BM 0157",
         "MEDICAMENTO": "(EMPAGLIFOZINA  METFORMINA)",
         "PRESENTACION": "JARDIANCE DUO 12,5/1000 X 60",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1109,7 +1109,7 @@
         "CODIGO": "BM 0166",
         "MEDICAMENTO": "(ESTRADIOL) ",
         "PRESENTACION": "HORMOGEL 0,5 MG X 35 G",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1228,7 +1228,7 @@
         "CODIGO": "BM 0183",
         "MEDICAMENTO": "(FLECAINIDA) ",
         "PRESENTACION": "CADENCE 100 MG X 50",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2649,7 +2649,7 @@
         "CODIGO": "BM 0389",
         "MEDICAMENTO": "(VALSARTAN) ",
         "PRESENTACION": "VALSARTAN 80 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2663,7 +2663,7 @@
         "CODIGO": "BM 0391",
         "MEDICAMENTO": "(VALSARTAN) C*",
         "PRESENTACION": "VALKEM 160 MG X 30",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Poco stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
