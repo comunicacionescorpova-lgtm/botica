@@ -598,7 +598,7 @@
         "CODIGO": "BM 0087",
         "MEDICAMENTO": "(CEFADROXILO)",
         "PRESENTACION": "CEFADROXILO 500 MG x 8",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -990,7 +990,7 @@
         "CODIGO": "BM 0149",
         "MEDICAMENTO": "(DOXICICLINA) ",
         "PRESENTACION": "DOXICICLINA 100 MG X 10",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
