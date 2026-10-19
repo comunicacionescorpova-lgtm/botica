@@ -1641,7 +1641,7 @@
         "CODIGO": "BM 0235",
         "MEDICAMENTO": "LEVODROPROPIZINA 6MG/1ML JARABE O SOLUCION ORAL FRASCO 120 ML.",
         "PRESENTACION": "TOCEX 60 MG/10 ML JBE 120 ML CAJ 1 FRA",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1718,14 +1718,14 @@
         "CODIGO": "BM 0246",
         "MEDICAMENTO": "LOPERAMIDA 2 MG COMPRIMIDO RECUBIERTO O CAPSULA ENVASADO EN BLISTER. ",
         "PRESENTACION": "LOPERAMIDA 2 MG CAJ 6 CM",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
         "CODIGO": "BM 0247",
         "MEDICAMENTO": "LORATADINA 10 MG CAJ 30 CM",
         "PRESENTACION": "LORATADINA 10 MG CAJ 30 CM",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1739,7 +1739,7 @@
         "CODIGO": "BM 0249",
         "MEDICAMENTO": "LORAZEPAM 2 MG COMPRIMIDO RECUBIERTO ENVASADO EN BLISTER.",
         "PRESENTACION": "LORAZEPAM 2 MG CAJ 30 CM",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1781,7 +1781,7 @@
         "CODIGO": "BM 0255",
         "MEDICAMENTO": "MEDROXIPROGESTERONA ACETATO/ESTRADIOL CIPIONATO 25/5 MG JERINGA PRELLENADA. ",
         "PRESENTACION": "NOVAFEM 25/5 MG SUSP INYECT CAJ 1 JRP",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
