@@ -1,19 +1,5 @@
 [
     {
-        "CODIGO": "BM 0009",
-        "MEDICAMENTO": "(ACENOCUMAROL) ",
-        "PRESENTACION": "ACEBRON 4 MG X 20",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0008",
-        "MEDICAMENTO": "(ACICLOVIR)",
-        "PRESENTACION": "ACICLOVIR 400 MG x 35 ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0001",
         "MEDICAMENTO": "(ACIDO ACETILSALICÍLICO)",
         "PRESENTACION": "AC. ACETILSALICILICO 100 MG X 100 ",
@@ -21,16 +7,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0003",
+        "CODIGO": "BM 0002",
         "MEDICAMENTO": "(ACIDO FOLICO)",
-        "PRESENTACION": "FOLISANIN 1 MG x 30 ",
+        "PRESENTACION": "ACIDO FOLICO 5 MG x 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0002",
+        "CODIGO": "BM 0003",
         "MEDICAMENTO": "(ACIDO FOLICO)",
-        "PRESENTACION": "ACIDO FOLICO 5 MG x 30 ",
+        "PRESENTACION": "FOLISANIN 1 MG x 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -63,17 +49,24 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0010",
-        "MEDICAMENTO": "(ACIDO VALPROICO)",
-        "PRESENTACION": "ACIDO VALPROICO 200 MG X 30",
+        "CODIGO": "BM 0008",
+        "MEDICAMENTO": "(ACICLOVIR)",
+        "PRESENTACION": "ACICLOVIR 400 MG x 35 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0088",
+        "CODIGO": "BM 0009",
+        "MEDICAMENTO": "(ACENOCUMAROL) ",
+        "PRESENTACION": "ACEBRON 4 MG X 20",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0010",
         "MEDICAMENTO": "(ACIDO VALPROICO)",
-        "PRESENTACION": "ATEMPERATOR MG X 20",
-        "ESTADO": "Sin stock",
+        "PRESENTACION": "ACIDO VALPROICO 200 MG X 30",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -87,20 +80,6 @@
         "CODIGO": "BM 0012",
         "MEDICAMENTO": "(ADAPALENO) ",
         "PRESENTACION": "ADAPALENO 0,1% X 30G ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0018",
-        "MEDICAMENTO": "(ALIMENTO)",
-        "PRESENTACION": "ENSURE ADVANCE CHOCOLATE 850 G ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0019",
-        "MEDICAMENTO": "(ALIMENTO)",
-        "PRESENTACION": "ENSURE ADVANCE FRUTILLA 850 G",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -136,6 +115,20 @@
         "CODIGO": "BM 0017",
         "MEDICAMENTO": "(ALIMENTO)",
         "PRESENTACION": "GLUCERNA VAINILLA 850 G ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0018",
+        "MEDICAMENTO": "(ALIMENTO)",
+        "PRESENTACION": "ENSURE ADVANCE CHOCOLATE 850 G ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0019",
+        "MEDICAMENTO": "(ALIMENTO)",
+        "PRESENTACION": "ENSURE ADVANCE FRUTILLA 850 G",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -189,6 +182,13 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0027",
+        "MEDICAMENTO": "(BETAMETASONA  CLORFENAMINA MALEATO ) ",
+        "PRESENTACION": "PRODEL-B FRA 120 ML",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0028",
         "MEDICAMENTO": "(AMLODIPINO  VALSARTAN) C*",
         "PRESENTACION": "VALMIRA 5/160 MG X 28",
@@ -196,16 +196,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0030",
+        "CODIGO": "BM 0029",
         "MEDICAMENTO": "(AMLODIPINO)",
-        "PRESENTACION": "AMLODIPINO 10 MG X 30 ",
+        "PRESENTACION": "AMOLODIPINO 5 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0029",
+        "CODIGO": "BM 0030",
         "MEDICAMENTO": "(AMLODIPINO)",
-        "PRESENTACION": "AMOLODIPINO 5 MG X 30",
+        "PRESENTACION": "AMLODIPINO 10 MG X 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -224,16 +224,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0034",
+        "CODIGO": "BM 0033",
         "MEDICAMENTO": "(AMOXICILINA)",
-        "PRESENTACION": "AMOBIOTIC 1G X 20",
+        "PRESENTACION": "AMOXICILINA 500 MG X 21 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0033",
+        "CODIGO": "BM 0034",
         "MEDICAMENTO": "(AMOXICILINA)",
-        "PRESENTACION": "AMOXICILINA 500 MG X 21 ",
+        "PRESENTACION": "AMOBIOTIC 1G X 20",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -249,6 +249,13 @@
         "MEDICAMENTO": "(AMOXICILINA/ AC. CLAVULANICO)",
         "PRESENTACION": "AMOXICILINA + AC. CLAVULANICO 875/125 MG X 14 ",
         "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0037",
+        "MEDICAMENTO": "(VITAMINA D3)",
+        "PRESENTACION": "BONAVID GOTAS FRASCO 2 ML",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -273,24 +280,10 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0072",
-        "MEDICAMENTO": "(ANFEBUTAMONA)",
-        "PRESENTACION": "BUPROPION CLORHIDRATO 150 mg x 30",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0041",
         "MEDICAMENTO": "(APIXABAN) ",
         "PRESENTACION": "APIXABAN 5 MG X 100 ",
         "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0044",
-        "MEDICAMENTO": "(ARIPIPRAZOL) ",
-        "PRESENTACION": "ARIPIPRAZOL 10 MG X 30",
-        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -305,6 +298,13 @@
         "MEDICAMENTO": "(ARIPIPRAZOL) ",
         "PRESENTACION": "ARIVITAE 5 MG X 28 ",
         "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0044",
+        "MEDICAMENTO": "(ARIPIPRAZOL) ",
+        "PRESENTACION": "ARIPIPRAZOL 10 MG X 30",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -378,9 +378,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0027",
-        "MEDICAMENTO": "(BETAMETASONA  CLORFENAMINA MALEATO ) ",
-        "PRESENTACION": "PRODEL-B FRA 120 ML",
+        "CODIGO": "BM 0055",
+        "MEDICAMENTO": "(BETAMETASONA DEXCLORFENAMINA)",
+        "PRESENTACION": "CAM X 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -389,13 +389,6 @@
         "MEDICAMENTO": "(BETAMETASONA COMO DIPROPIONATO ; FOSFATO DISODICO)",
         "PRESENTACION": "BETAVOL x 1 JERINGA ",
         "ESTADO": "Sin stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0055",
-        "MEDICAMENTO": "(BETAMETASONA DEXCLORFENAMINA)",
-        "PRESENTACION": "CAM X 30 ",
-        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -431,6 +424,13 @@
         "MEDICAMENTO": "(BISOPROLOL)",
         "PRESENTACION": "BISOPROLOL 1,25 MG X 30",
         "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0062",
+        "MEDICAMENTO": "(CALCIO  VIT D3 500/800)",
+        "PRESENTACION": "CALCIO 500 + VITAMINA D3 800 UI X 60",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -483,6 +483,13 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0070",
+        "MEDICAMENTO": "(BUDESONIDA) ",
+        "PRESENTACION": "AEROVIAL INHALADOR 200 MCG/D ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0071",
         "MEDICAMENTO": "(BUDESONIDA FORMOTEROL)",
         "PRESENTACION": "VANNAIR 80/4,5 MG X 120 DOSIS",
@@ -490,9 +497,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0070",
-        "MEDICAMENTO": "(BUDESONIDA) ",
-        "PRESENTACION": "AEROVIAL INHALADOR 200 MCG/D ",
+        "CODIGO": "BM 0072",
+        "MEDICAMENTO": "(ANFEBUTAMONA)",
+        "PRESENTACION": "BUPROPION CLORHIDRATO 150 mg x 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -515,13 +522,6 @@
         "MEDICAMENTO": "(CALCIO  VIT D3 500/400)",
         "PRESENTACION": "CALCIO 500 MG + VIT D 400 UI X 60",
         "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0062",
-        "MEDICAMENTO": "(CALCIO  VIT D3 500/800)",
-        "PRESENTACION": "CALCIO 500 + VITAMINA D3 800 UI X 60",
-        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -549,7 +549,7 @@
         "CODIGO": "BM 0079",
         "MEDICAMENTO": "(CARBAMAZEPINA)",
         "PRESENTACION": "CARBAMAZEPINA 200 MG x 20",
-        "ESTADO": "Con stock",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -581,6 +581,13 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0084",
+        "MEDICAMENTO": "(CARVEDILOL) ",
+        "PRESENTACION": "CARVEDILOL 6,25 MG X 30",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0085",
         "MEDICAMENTO": "(CARVEDILOL) ",
         "PRESENTACION": "BETAPLEX 25 MG X 30 ",
@@ -588,9 +595,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0084",
-        "MEDICAMENTO": "(CARVEDILOL) ",
-        "PRESENTACION": "CARVEDILOL 6,25 MG X 30",
+        "CODIGO": "BM 0086",
+        "MEDICAMENTO": "(HIERRO COMO BIS-GLICINATO QUELATO 30 MG  ACIDO FOLICO 600 MCG)",
+        "PRESENTACION": "CHELTIN FC X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -599,6 +606,13 @@
         "MEDICAMENTO": "(CEFADROXILO)",
         "PRESENTACION": "CEFADROXILO 500 MG x 8",
         "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0088",
+        "MEDICAMENTO": "(ACIDO VALPROICO)",
+        "PRESENTACION": "ATEMPERATOR MG X 20",
+        "ESTADO": "Sin stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -777,16 +791,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0118",
+        "CODIGO": "BM 0117",
         "MEDICAMENTO": "(COLÁGENO HIDROLIZADO)",
-        "PRESENTACION": "REGENNERA FLEX C + D X 30 SACHET ",
+        "PRESENTACION": "COLÁGENO HIDROLIZADO x 60 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0117",
+        "CODIGO": "BM 0118",
         "MEDICAMENTO": "(COLÁGENO HIDROLIZADO)",
-        "PRESENTACION": "COLÁGENO HIDROLIZADO x 60 ",
+        "PRESENTACION": "REGENNERA FLEX C + D X 30 SACHET ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -889,16 +903,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0135",
+        "CODIGO": "BM 0134",
         "MEDICAMENTO": "(DICLOFENACO)",
-        "PRESENTACION": "DICLOFENACO 1,16% X 30 G ",
+        "PRESENTACION": "DICLOFENACO 100 MG X 8 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0134",
+        "CODIGO": "BM 0135",
         "MEDICAMENTO": "(DICLOFENACO)",
-        "PRESENTACION": "DICLOFENACO 100 MG X 8 ",
+        "PRESENTACION": "DICLOFENACO 1,16% X 30 G ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1008,16 +1022,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0153",
+        "CODIGO": "BM 0152",
         "MEDICAMENTO": "(DULOXETINA) ",
-        "PRESENTACION": "DULATINE 60 MG X 28 ",
+        "PRESENTACION": "DULOXETINA 30 MG x 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0152",
+        "CODIGO": "BM 0153",
         "MEDICAMENTO": "(DULOXETINA) ",
-        "PRESENTACION": "DULOXETINA 30 MG x 30 ",
+        "PRESENTACION": "DULATINE 60 MG X 28 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1029,16 +1043,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0156",
+        "CODIGO": "BM 0155",
         "MEDICAMENTO": "(EMPAGLIFLOZINA) ",
-        "PRESENTACION": "JARDIANCE 10 MG x 30 ",
+        "PRESENTACION": "JARDIANCE 25 MG X 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0155",
+        "CODIGO": "BM 0156",
         "MEDICAMENTO": "(EMPAGLIFLOZINA) ",
-        "PRESENTACION": "JARDIANCE 25 MG X 30 ",
+        "PRESENTACION": "JARDIANCE 10 MG x 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1057,16 +1071,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0160",
+        "CODIGO": "BM 0159",
         "MEDICAMENTO": "(ENALAPRIL)",
-        "PRESENTACION": "ENALAPRIL 10 MG X 20",
+        "PRESENTACION": "ENALAPRIL 20 MG x 20",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0159",
+        "CODIGO": "BM 0160",
         "MEDICAMENTO": "(ENALAPRIL)",
-        "PRESENTACION": "ENALAPRIL 20 MG x 20",
+        "PRESENTACION": "ENALAPRIL 10 MG X 20",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1120,13 +1134,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0170",
-        "MEDICAMENTO": "(ETORICOXIB) ",
-        "PRESENTACION": "ETORICOXIB 120 MG x 7 ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0168",
         "MEDICAMENTO": "(ETORICOXIB) ",
         "PRESENTACION": "ETORICOXIB 60 MG X 14 ",
@@ -1141,9 +1148,23 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0170",
+        "MEDICAMENTO": "(ETORICOXIB) ",
+        "PRESENTACION": "ETORICOXIB 120 MG x 7 ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0171",
         "MEDICAMENTO": "(EZETIMIBA) ",
         "PRESENTACION": "ZETIROL 10 MG X 28 ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0172",
+        "MEDICAMENTO": "(EZETIMIBA/SIMVASTATINA) ",
+        "PRESENTACION": "EZETIMIBA/SIMVASTATINA 10/20 MG X 28",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1152,13 +1173,6 @@
         "MEDICAMENTO": "(EZETIMIBA/SIMVASTATINA) ",
         "PRESENTACION": "EZETIMIBA/SIMVASTATINA 10/10 MG X 28",
         "ESTADO": "Poco stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0172",
-        "MEDICAMENTO": "(EZETIMIBA/SIMVASTATINA) ",
-        "PRESENTACION": "EZETIMIBA/SIMVASTATINA 10/20 MG X 28",
-        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1204,16 +1218,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0181",
+        "CODIGO": "BM 0180",
         "MEDICAMENTO": "(FEXOFENADINA) ",
-        "PRESENTACION": "ALFEXA 120 MG X 30",
+        "PRESENTACION": "ALFEXA 180 MG X 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0180",
+        "CODIGO": "BM 0181",
         "MEDICAMENTO": "(FEXOFENADINA) ",
-        "PRESENTACION": "ALFEXA 180 MG X 30 ",
+        "PRESENTACION": "ALFEXA 120 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1260,16 +1274,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0189",
+        "CODIGO": "BM 0188",
         "MEDICAMENTO": "(FLUTICASONA  SALMETEROL) ",
-        "PRESENTACION": "AURITUSS 25/250 X 120 DOSIS ",
+        "PRESENTACION": "FLUSACORT 25/125 X 120 DOSIS ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0188",
+        "CODIGO": "BM 0189",
         "MEDICAMENTO": "(FLUTICASONA  SALMETEROL) ",
-        "PRESENTACION": "FLUSACORT 25/125 X 120 DOSIS ",
+        "PRESENTACION": "AURITUSS 25/250 X 120 DOSIS ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1337,16 +1351,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0201",
+        "CODIGO": "BM 0200",
         "MEDICAMENTO": "(GLUCOSAMINA  CONDROITINA) ",
-        "PRESENTACION": "FINARTRIT 1500/1200 MG X 30  SOBRES",
+        "PRESENTACION": "FINARTRIT 500/400 MG X 60 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0200",
+        "CODIGO": "BM 0201",
         "MEDICAMENTO": "(GLUCOSAMINA  CONDROITINA) ",
-        "PRESENTACION": "FINARTRIT 500/400 MG X 60 ",
+        "PRESENTACION": "FINARTRIT 1500/1200 MG X 30  SOBRES",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1400,16 +1414,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0210",
+        "CODIGO": "BM 0209",
         "MEDICAMENTO": "(HIDROCORTISONA) C*",
-        "PRESENTACION": "HIDROCORTISONA 1% X 15 G ",
+        "PRESENTACION": "HIDROCORTISONA 20 MG X 20",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0209",
+        "CODIGO": "BM 0210",
         "MEDICAMENTO": "(HIDROCORTISONA) C*",
-        "PRESENTACION": "HIDROCORTISONA 20 MG X 20",
+        "PRESENTACION": "HIDROCORTISONA 1% X 15 G ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1428,9 +1442,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0086",
-        "MEDICAMENTO": "(HIERRO COMO BIS-GLICINATO QUELATO 30 MG  ACIDO FOLICO 600 MCG)",
-        "PRESENTACION": "CHELTIN FC X 30",
+        "CODIGO": "BM 0213",
+        "MEDICAMENTO": "(IBUPROFENO)",
+        "PRESENTACION": "IBUPROFENO 600 MG x 20",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1438,13 +1452,6 @@
         "CODIGO": "BM 0214",
         "MEDICAMENTO": "(IBUPROFENO)",
         "PRESENTACION": "IBUPROFENO 400 MG X 20",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0213",
-        "MEDICAMENTO": "(IBUPROFENO)",
-        "PRESENTACION": "IBUPROFENO 600 MG x 20",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1470,13 +1477,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0219",
-        "MEDICAMENTO": "(ISOTRETINOINA) C*",
-        "PRESENTACION": "ORALNE 10 MG X 30 ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0218",
         "MEDICAMENTO": "(ISOTRETINOINA) C*",
         "PRESENTACION": "ORALNE 20 MG X 30 ",
@@ -1484,9 +1484,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0222",
-        "MEDICAMENTO": "(KETOPROFENO)",
-        "PRESENTACION": "KETOPROFENO 200 MG X 10 ",
+        "CODIGO": "BM 0219",
+        "MEDICAMENTO": "(ISOTRETINOINA) C*",
+        "PRESENTACION": "ORALNE 10 MG X 30 ",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0220",
+        "MEDICAMENTO": "(LETROZOL) ",
+        "PRESENTACION": "LETROZOL 2,5 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1495,6 +1502,13 @@
         "MEDICAMENTO": "(KETOPROFENO)",
         "PRESENTACION": "KETOPROFENO 50 MG X 20",
         "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0222",
+        "MEDICAMENTO": "(KETOPROFENO)",
+        "PRESENTACION": "KETOPROFENO 200 MG X 10 ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1533,13 +1547,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0230",
-        "MEDICAMENTO": "(LAMOTRIGINA) C*",
-        "PRESENTACION": "LAMOTRIGINA 100 MG X60",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0228",
         "MEDICAMENTO": "(LAMOTRIGINA) C*",
         "PRESENTACION": "MEGANOX 25 MG X 30",
@@ -1550,6 +1557,13 @@
         "CODIGO": "BM 0229",
         "MEDICAMENTO": "(LAMOTRIGINA) C*",
         "PRESENTACION": "TRIGILAB 200 MG X 30",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0230",
+        "MEDICAMENTO": "(LAMOTRIGINA) C*",
+        "PRESENTACION": "LAMOTRIGINA 100 MG X60",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1578,13 +1592,6 @@
         "CODIGO": "BM 0234",
         "MEDICAMENTO": "(LEFLUNOMIDA) C*",
         "PRESENTACION": "SOLIVO 20 MG X 60",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0220",
-        "MEDICAMENTO": "(LETROZOL) ",
-        "PRESENTACION": "LETROZOL 2,5 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1652,6 +1659,20 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
+        "CODIGO": "BM 0244",
+        "MEDICAMENTO": "(LEVOTIROXINA) C*",
+        "PRESENTACION": "LEVOTIROXINA 75 MCG X50",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0245",
+        "MEDICAMENTO": "(LEVOTIROXINA) C*",
+        "PRESENTACION": "THYROFIX 25 MCG X 50",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
         "CODIGO": "BM 0246",
         "MEDICAMENTO": "(LEVOTIROXINA) C*",
         "PRESENTACION": "LEVOTIROXINA 100 MCG X 100 ",
@@ -1666,23 +1687,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0244",
-        "MEDICAMENTO": "(LEVOTIROXINA) C*",
-        "PRESENTACION": "LEVOTIROXINA 75 MCG X50",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0248",
         "MEDICAMENTO": "(LEVOTIROXINA) C*",
         "PRESENTACION": "LEVOTIROXINA 88 MCG X 50 ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0245",
-        "MEDICAMENTO": "(LEVOTIROXINA) C*",
-        "PRESENTACION": "THYROFIX 25 MCG X 50",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1820,13 +1827,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0269",
-        "MEDICAMENTO": "(METFORMINA)",
-        "PRESENTACION": "METFORMINA 1000 MG LP X 30",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0268",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "GLUCOPHAGE 500 MG X 30",
@@ -1834,9 +1834,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0271",
+        "CODIGO": "BM 0269",
         "MEDICAMENTO": "(METFORMINA)",
-        "PRESENTACION": "METFORMINA 500 MG LP X 30",
+        "PRESENTACION": "METFORMINA 1000 MG LP X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -1844,6 +1844,13 @@
         "CODIGO": "BM 0270",
         "MEDICAMENTO": "(METFORMINA)",
         "PRESENTACION": "METFORMINA 750 MG LP X 30",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0271",
+        "MEDICAMENTO": "(METFORMINA)",
+        "PRESENTACION": "METFORMINA 500 MG LP X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2247,13 +2254,6 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0333",
-        "MEDICAMENTO": "(RISPERIDONA) C*",
-        "PRESENTACION": "RADIGEN 1MG/ML X 30 ML (EUROFARMA) (RISPERIDONA) C*",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0332",
         "MEDICAMENTO": "(RISPERIDONA) C*",
         "PRESENTACION": "RISMIA 1 MG X 30 COMP ",
@@ -2261,9 +2261,9 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0335",
-        "MEDICAMENTO": "(RIVAROXABAN) C*",
-        "PRESENTACION": "RIXAPIN 10 MG X 100",
+        "CODIGO": "BM 0333",
+        "MEDICAMENTO": "(RISPERIDONA) C*",
+        "PRESENTACION": "RADIGEN 1MG/ML X 30 ML (EUROFARMA) (RISPERIDONA) C*",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2271,6 +2271,13 @@
         "CODIGO": "BM 0334",
         "MEDICAMENTO": "(RIVAROXABAN) C*",
         "PRESENTACION": "ZOTABAN 20 MG X 28",
+        "ESTADO": "Con stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0335",
+        "MEDICAMENTO": "(RIVAROXABAN) C*",
+        "PRESENTACION": "RIXAPIN 10 MG X 100",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2394,16 +2401,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0354",
+        "CODIGO": "BM 0353",
         "MEDICAMENTO": "(TADALAFILO)",
-        "PRESENTACION": "DISAC 20 MG X 4",
+        "PRESENTACION": "DISAC 5 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0353",
+        "CODIGO": "BM 0354",
         "MEDICAMENTO": "(TADALAFILO)",
-        "PRESENTACION": "DISAC 5 MG X 30",
+        "PRESENTACION": "DISAC 20 MG X 4",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2436,16 +2443,16 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0360",
+        "CODIGO": "BM 0359",
         "MEDICAMENTO": "(TELMISARTAN) C*",
-        "PRESENTACION": "TELMISARTAN 80 MG X 30",
+        "PRESENTACION": "TEXINAL 40 MG X 30 ",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0359",
+        "CODIGO": "BM 0360",
         "MEDICAMENTO": "(TELMISARTAN) C*",
-        "PRESENTACION": "TEXINAL 40 MG X 30 ",
+        "PRESENTACION": "TELMISARTAN 80 MG X 30",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
@@ -2548,17 +2555,17 @@
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
-        "CODIGO": "BM 0376",
-        "MEDICAMENTO": "(TRAMADOL) C*",
-        "PRESENTACION": "TRAMADOL 100 MG/ML X 20 ML ",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
         "CODIGO": "BM 0375",
         "MEDICAMENTO": "(TRAMADOL) C*",
         "PRESENTACION": "TRAMADOL 50 MG X 20",
         "ESTADO": "Sin stock",
+        "ULTIMA ACTUALIZACION": "15/09/2026"
+    },
+    {
+        "CODIGO": "BM 0376",
+        "MEDICAMENTO": "(TRAMADOL) C*",
+        "PRESENTACION": "TRAMADOL 100 MG/ML X 20 ML ",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2719,13 +2726,6 @@
         "CODIGO": "BM 0399",
         "MEDICAMENTO": "(VITAMINA C)",
         "PRESENTACION": "VITAMINA C 500 MG X 30",
-        "ESTADO": "Con stock",
-        "ULTIMA ACTUALIZACION": "15/09/2026"
-    },
-    {
-        "CODIGO": "BM 0037",
-        "MEDICAMENTO": "(VITAMINA D3)",
-        "PRESENTACION": "BONAVID GOTAS FRASCO 2 ML",
         "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
