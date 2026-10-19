@@ -248,7 +248,7 @@
         "CODIGO": "BM 0036",
         "MEDICAMENTO": "AMOXICILINA 500 MG/5 ML POLVO PARA SUSPENSION ORAL FRASCO 60 ML. ",
         "PRESENTACION": "AMOXICILINA 500 MG/5 ML 60 ML CAJ 1 FRA",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -472,7 +472,7 @@
         "CODIGO": "BM 0068",
         "MEDICAMENTO": "BRIMONIDINA/TIMOLOL 0,2G/ 0,5G/100 ML SOLUCIÓN OFTÁMICA FRASCO 5 ML. ",
         "PRESENTACION": "MYMOF 0,2/0,5 SOL OFT 5 ML CAJ 1 FRA",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -857,7 +857,7 @@
         "CODIGO": "BM 0123",
         "MEDICAMENTO": "DESLORATADINA 5 MG COMPRIMIDO RECUBIERTO ENVASADO EN BLISTER. ",
         "PRESENTACION": "DESLORATADINA 5 MG CAJ 30 CM",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
