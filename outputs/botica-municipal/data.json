@@ -850,7 +850,7 @@
         "CODIGO": "BM 0128",
         "MEDICAMENTO": "(DAPAGLIFOZINA) ",
         "PRESENTACION": "FORXIGA 10 MG X 28 ",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -997,7 +997,7 @@
         "CODIGO": "BM 0150",
         "MEDICAMENTO": "(DROSPIRENONA  ETINILESTRADIOL) ",
         "PRESENTACION": "FEMIPLUS CD 3/0,03 MG X28",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1207,14 +1207,14 @@
         "CODIGO": "BM 0181",
         "MEDICAMENTO": "(FEXOFENADINA) ",
         "PRESENTACION": "ALFEXA 120 MG X 30",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
         "CODIGO": "BM 0180",
         "MEDICAMENTO": "(FEXOFENADINA) ",
         "PRESENTACION": "ALFEXA 180 MG X 30 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -2474,7 +2474,7 @@
         "CODIGO": "BM 0364",
         "MEDICAMENTO": "(TIBOLONA) C*",
         "PRESENTACION": "LIVIAL 2,5 MG X 28 ",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
