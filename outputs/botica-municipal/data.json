@@ -1123,7 +1123,7 @@
         "CODIGO": "BM 0161",
         "MEDICAMENTO": "ETORICOXIB 120 MG COMPRIMIDO RECUBIERTO ENVASADO EN BLISTER. ",
         "PRESENTACION": "COXTOR 120 MG CAJ 14 CM REC",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
@@ -1172,14 +1172,14 @@
         "CODIGO": "BM 0168",
         "MEDICAMENTO": "FENITOINA 100 MG COMPRIMIDO DE LIBERACION RAPIDA ENVASADO EN BLISTER.",
         "PRESENTACION": "FENITOINA SODICA 100 MG CAJ 30 CM",
-        "ESTADO": "Poco stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
         "CODIGO": "BM 0169",
         "MEDICAMENTO": "FENOFIBRATO 200MG CAPSULA ENVASADO EN BLISTER ",
         "PRESENTACION": "FIBROLOW LIDOSE 200 MG CAJ 30 CP",
-        "ESTADO": "Sin stock",
+        "ESTADO": "Con stock",
         "ULTIMA ACTUALIZACION": "15/09/2026"
     },
     {
